@@ -1,0 +1,45 @@
+research_depth: rapid
+reference_brand:
+  name: TEKLA
+entity_scope: "TEKLA (teklafabrics.com), the Copenhagen home-textile masterbrand founded 2017 by Charlie Hedin and Kristoffer Juhl; bedding, bath, sleepwear/clothing, and home categories under one owned e-commerce site and one flagship store."
+product_mode: physical
+markets:
+  - Global (owned e-commerce, EU/US/UK shipping)
+  - Denmark (Copenhagen flagship store)
+languages:
+  - English
+channels:
+  - owned web
+  - flagship retail store
+  - editorial press
+era_start: "2017"
+era_end: "2026"
+research_priorities:
+  - verified identity colors and typography from the live site
+  - founder-stated mission and positioning language
+  - product representation and product-native material language
+exclusions:
+  - collaborator/guest-collection lines
+  - regional pricing and promotional copy
+original_user_priority: "Research TEKLA as a real source-brand anatomy package in rapid mode for Stage 1 review."
+thresholds:
+  structural_sources: 4
+  primary_structural_sources: 3
+  visual_candidates: 8
+  unique_local_visuals: 8
+  visual_layers: 5
+  core_claims: 8
+  grammar_rules: 4
+report_identity:
+  hero_background_color: "#F6F6F6"
+  hero_foreground_color: "#181818"
+  hero_color_layer: identity
+  hero_logo_evidence_id: EV-101
+  hero_logo_local_path: assets/tekla-mark.svg
+  hero_logo_source_url: "https://teklafabrics.com/favicon.svg"
+  hero_logo_credit: "Tekla"
+  hero_logo_rights_note: "Copyright Tekla; research reference only, not redistributed as a product asset"
+  hero_logo_variant: "favicon / app-icon mark (monogram; full wordmark lockup not independently isolated within the rapid window)"
+  hero_logo_render_treatment: none
+  hero_identity_scope: "Verified from the live teklafabrics.com HTML meta theme-color, safari-pinned-tab mask color, and shipped CSS canvas color on 2026-08-24; scope is the current owned-web masterbrand identity only"
+inapplicable_visual_layers: []

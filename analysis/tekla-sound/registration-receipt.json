@@ -1,0 +1,9 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "brand_report_registration_receipt",
+  "stage": "extended_brand_anatomy",
+  "report_id": "tekla-sound-extended-anatomy",
+  "package_sha256": "8ba04d1a0dd0d74ecb560cc3002824f64f716e03a31fe4bf4d91fa519da2695e",
+  "review_status": "accepted",
+  "finalized_at": "2026-08-24T08:26:21.440Z"
+}

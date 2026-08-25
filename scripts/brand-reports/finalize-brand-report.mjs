@@ -218,7 +218,8 @@ async function main() {
 
   if (!options.registrationOnly) {
     const validationStartedAt = startTimer();
-    run('python3', [validatorPath, packageRoot, ...stage.validatorArguments], {
+    const pythonCommand = process.platform === 'win32' ? 'python' : 'python3';
+    run(pythonCommand, [validatorPath, packageRoot, ...stage.validatorArguments], {
       capture: true,
       echo: false,
     });

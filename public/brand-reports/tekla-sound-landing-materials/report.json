@@ -1,0 +1,329 @@
+{
+  "schema_version": "1.1.0",
+  "artifact_type": "landing_materials",
+  "generated_at": "2026-08-24T18:10:00+09:00",
+  "extended_brand_source": {
+    "brand_name": "TEKLA SOUND",
+    "package_path": "analysis/tekla-sound",
+    "json_path": "outputs/extended-brand-anatomy.json",
+    "review_status": "accepted",
+    "schema_version": "1.1.0"
+  },
+  "selected_narrative_route": "R1 evolved — Sound built into space",
+  "message_visual_map": {
+    "brand_message_to_key_visual": "건축 면과 분리되지 않는 Wall을 하나의 작품으로 보여 ‘Sound, built into space.’를 전달한다.",
+    "brand_values_to_brand_mood": [
+      "벽과 제품의 경계를 최소화해 Architectural sound를 보여준다.",
+      "직물의 결, 공간의 깊이, 몸으로 느끼는 진동을 Tactile dimension으로 연결한다.",
+      "시각적 부피를 지우고 작품 같은 존재감을 남겨 Invisible luxury를 전달한다."
+    ],
+    "family_and_product_usp_to_product_imagery": [
+      "Wall은 하나의 세로 직물 오브제로 공간의 중심을 만든다.",
+      "Niche는 좁은 비례와 페어 배치로 조용한 벽면에 분산된다.",
+      "Beam은 낮고 긴 비례로 가구와 건축의 수평선에 정렬된다."
+    ]
+  },
+  "landing_narrative": {
+    "key_insight": "랜딩은 보이지 않는 기술 설명이 아니라 공간에 스며든 소리의 인상에서 시작해 세 가지 형태의 시각적 증거로 이동한다.",
+    "brand_name": "TEKLA SOUND",
+    "brand_message": "Sound, built into space.",
+    "hero_eyebrow": "TEKLA SOUND / ARCHITECTURAL SOUND",
+    "hero_headline": "Sound, built into space.",
+    "hero_support": "스피커의 부피를 지우고, 사운드를 건축 안에 설계했습니다. 눈에 보이지 않던 미세한 음의 결까지 진동으로 감각하는 새로운 음악 경험.",
+    "section_sequence": [
+      "hero",
+      "why TEKLA SOUND",
+      "brand story",
+      "Still Series",
+      "Wall",
+      "Niche",
+      "Beam",
+      "private listening"
+    ],
+    "primary_cta": "Explore the Still Series"
+  },
+  "brand_value": {
+    "key_insight": "TEKLA SOUND의 가치는 추상적 수사가 아니라 보이는 재료, 차분한 배치, 오래 남는 비례로 표현된다.",
+    "statement": "소리를 듣는 공간에서, 공간 전체가 소리가 되는 경험으로.",
+    "values": [
+      {
+        "value": "Architectural sound",
+        "statement": "사운드를 공간에 놓는 대신 건축의 일부로 설계합니다.",
+        "proof": "Wall, Niche, Beam이 벽과 틈, 수평선의 비례에 맞춰 통합됩니다."
+      },
+      {
+        "value": "Tactile dimension",
+        "statement": "미세한 음의 결까지 공간을 타고 흐르는 진동으로 감각합니다.",
+        "proof": "직물 표면과 공간 전체를 하나의 감각적 사운드 장면으로 연결합니다."
+      },
+      {
+        "value": "Invisible luxury",
+        "statement": "기기의 부피는 지우고 예술 작품 같은 존재감만 남깁니다.",
+        "proof": "직물 면, 오크 프레임, 절제된 슬롯이 하나의 인테리어 오브제로 읽힙니다."
+      }
+    ],
+    "proof": [
+      "earth-red woven acoustic face",
+      "pale-oak perimeter frame",
+      "one recessed dark acoustic slot",
+      "architectural alignment"
+    ],
+    "short_variants": [
+      "건축이 된 사운드.",
+      "진동으로 만나는 디테일.",
+      "부피를 지운 럭셔리."
+    ]
+  },
+  "brand_story": {
+    "key_insight": "브랜드 스토리는 스피커를 바라보는 경험에서 벗어나 소리가 머무는 공간 전체를 감상하는 방식으로 전환한다.",
+    "headline": "음악을 재생하는 물건이 사라지면, 공간 전체가 음악이 됩니다.",
+    "body": "TEKLA SOUND는 스피커라는 물리적 부피에서 사운드를 해방합니다. 건축적 비례 안에 사운드를 내장하고, 앞과 뒤, 높이와 깊이를 따라 음이 펼쳐지는 입체적인 감각을 설계합니다. 크게 울리는 소리뿐 아니라 스쳐 지나갈 만큼 미세한 음의 결도 공간을 타고 전해지는 진동으로 경험하게 합니다.",
+    "product_connection": "그 결과 남는 것은 기계가 아니라 하나의 작품입니다. Wall, Niche, Beam은 서로 다른 건축 면에 스며들어 인테리어와 음악을 하나의 감각으로 완성합니다."
+  },
+  "product_introduction": {
+    "key_insight": "Still Series는 크기만 다른 제품군이 아니라 벽, 좁은 면, 수평선이라는 세 공간 조건을 하나의 재료 언어로 연결한다.",
+    "family_name": "Still Series",
+    "headline": "Three forms. One immersive space.",
+    "description": "벽을 하나의 작품으로 바꾸는 Wall, 좁은 건축 면까지 사운드를 확장하는 Niche, 공간의 수평선을 따라 감각을 잇는 Beam. 세 형태가 하나의 입체적인 음악 경험을 설계합니다.",
+    "shared_promise": "형태는 사라지고, 공간 전체가 음악으로 남습니다.",
+    "family_usp": "서로 다른 건축 면에 사운드를 내장해 부피감 없는 오브제와 입체적인 음악 경험을 하나로 연결합니다."
+  },
+  "product_lineup_key_insight": "각 제품은 동일한 재료·구조 원칙을 지키면서 배치되는 공간의 방향만 분명하게 바꾼다.",
+  "product_lineup_copy": [
+    {
+      "product_name": "TEKLA SOUND Wall",
+      "product_usp": "벽과 사운드, 예술 작품의 경계를 하나의 오브제로 합칩니다.",
+      "eyebrow": "STILL SERIES / WALL",
+      "headline": "The wall becomes sound.",
+      "description": "스피커의 부피 대신 직물 작품의 존재감만 남깁니다. Wall은 건축 면에 사운드를 내장해 공간의 중심을 하나의 음악적 장면으로 바꿉니다.",
+      "feature_copy": [
+        "Tall portrait proportion",
+        "Earth-red woven face",
+        "Pale-oak frame",
+        "Recessed lower slot"
+      ],
+      "proof_copy": "등록된 히어로 렌더가 전체 실루엣, 직물 면, 오크 프레임, 케이블 없는 벽면 설치 상태를 보여줍니다.",
+      "cta": "Explore Wall"
+    },
+    {
+      "product_name": "TEKLA SOUND Niche",
+      "product_usp": "좁은 건축 면까지 입체적인 사운드 감각으로 연결합니다.",
+      "eyebrow": "STILL SERIES / NICHE",
+      "headline": "Every surface holds a dimension of sound.",
+      "description": "가느다란 비례와 페어 구성이 선반 옆, 통로 사이, 작은 벽면까지 사운드의 깊이를 확장합니다. 눈에 띄는 부피 없이 공간의 여러 면을 하나의 음악 경험으로 잇습니다.",
+      "feature_copy": [
+        "Narrow portrait proportion",
+        "Balanced paired placement",
+        "Shared woven face and oak edge",
+        "Recessed lower slot"
+      ],
+      "proof_copy": "등록된 페어 렌더가 동일한 비례와 재료를 가진 두 오브제가 좁은 벽면에 정렬되는 모습을 보여줍니다.",
+      "cta": "Explore Niche"
+    },
+    {
+      "product_name": "TEKLA SOUND Beam",
+      "product_usp": "건축의 수평선을 따라 사운드와 진동의 감각을 넓게 펼칩니다.",
+      "eyebrow": "STILL SERIES / BEAM",
+      "headline": "A horizon you can feel.",
+      "description": "낮고 긴 직물 면이 벤치와 선반, 긴 벽체의 수평선에 스며듭니다. 시각적 부피를 더하지 않으면서 공간을 가로지르는 음악의 깊이와 미세한 진동을 감각하게 합니다.",
+      "feature_copy": [
+        "Low wide proportion",
+        "Continuous woven span",
+        "Pale-oak horizontal datum",
+        "Recessed linear slot"
+      ],
+      "proof_copy": "등록된 컨텍스트 렌더가 Beam의 수평 비례와 긴 오크 가구선의 정렬, 케이블 없는 설치 상태를 보여줍니다.",
+      "cta": "Explore Beam"
+    }
+  ],
+  "section_map_key_insight": "각 등록 렌더는 랜딩 섹션 하나의 명확한 커뮤니케이션 과업과 시각적 증거를 맡는다.",
+  "section_map": [
+    {
+      "section": "01 Hero",
+      "communication_job": "건축에 내장된 사운드라는 혁신성과 감각적 효익을 첫 화면에서 선언한다.",
+      "copy": "Headline: Sound, woven in to space.\nBody: 사운드는 보이는 것이 아니라 공간 안에서 경험하는 것입니다.\n건축 안에 설계한 사운드 시스템으로 미세한 음의 결까지 진동으로\n감각하는 새로운 경험을 선보입니다.",
+      "proof_of": "대표 Wall의 예술 오브제 형태와 벽면 통합",
+      "asset_id": "ST3-WALL-01",
+      "cta": "Experience the Still Series"
+    },
+    {
+      "section": "02 Why TEKLA SOUND",
+      "communication_job": "건축적 설계, 입체적 감각, 부피를 지운 럭셔리라는 차별점을 설명한다.",
+      "copy": "Headline: We focuses on spatial experiences.\nIntro: 부피는 최소화하고, 감각은 더 확장됩니다.\nValue 1: 직물, 오크나무 등 자연 요소로 만들어져 공간에 녹아듭니다.\nValue 2: 복잡한 라인을 없앤 공간 내장으로 3D 사운드 시스템을 설계합니다.\nValue 3: 작품처럼 감상하는 인테리어 오브제 사운드입니다.\nMobile: 건축이 된 사운드. 진동으로 만나는 디테일. 부피를 지운 럭셔리.",
+      "proof_of": "건축 면에 통합된 직물 오브제와 절제된 제품 구조",
+      "asset_id": "ST3-WALL-01",
+      "cta": "Discover TEKLA SOUND"
+    },
+    {
+      "section": "03 Brand story",
+      "communication_job": "스피커의 소멸이 공간과 음악의 합일로 이어지는 브랜드 철학을 전달한다.",
+      "copy": "Headline: Redefining the sound experience forever.\nBody: Tekla Sound는 공간 전체가 차분하게 울리는 몰입과 휴식을 제안합니다.\n스피커라는 물리적 부피에서 해방된 사운드는 공간에 스며들어 입체화됩니다.\n스쳐 지나갈만큼 미세한 음의 결도 공간을 타고 전해지는 진동으로 경험되며,\n스피커는 비로소 사라지고 공간 전체가 감각적인 음향 경험으로 바뀝니다.",
+      "proof_of": "생활 공간과 하나의 작품처럼 통합된 Wall",
+      "asset_id": "ST3-WALL-01",
+      "cta": "Our vision of sound"
+    },
+    {
+      "section": "04 Still Series",
+      "communication_job": "세 제품이 하나의 입체적인 공간 경험을 구성한다는 점을 설명한다.",
+      "copy": "Eyebrow: THE STILL SERIES\nHeadline: Three forms. One immersive space.\nBody: 벽을 하나의 작품으로 바꾸는 Wall, 좁은 건축 면까지 사운드를 확장하는 Niche, 공간의 수평선을 따라 감각을 잇는 Beam. 세 형태가 하나의 입체적인 음악 경험을 설계합니다.\nMobile: 세 가지 형태. 하나의 몰입형 공간.",
+      "proof_of": "세 건축 방향과 공통된 직물·오크 언어",
+      "asset_id": "ST3-NICHE-01",
+      "cta": "Explore the series"
+    },
+    {
+      "section": "05 Wall",
+      "communication_job": "Wall을 건축, 사운드, 예술의 경계를 지우는 대표 제품으로 소개한다.",
+      "copy": "Eyebrow: STILL SERIES / WALL\nHeadline: The wall becomes sound.\nBody: 스피커의 부피 대신 직물 작품의 존재감만 남깁니다. Wall은 건축 면에 사운드를 내장해 공간의 중심을 하나의 음악적 장면으로 바꿉니다.\nMobile: 벽과 사운드가 하나가 되다.",
+      "proof_of": "전체 세로 실루엣과 작품 같은 벽면 설치 상태",
+      "asset_id": "ST3-WALL-01",
+      "cta": "Explore Wall"
+    },
+    {
+      "section": "05B Wall Wide",
+      "communication_job": "Wall의 높이와 재료 언어를 유지하면서 가로 면적이 약 3배 확장된 작품형 변형을 보여준다.",
+      "copy": "Eyebrow: STILL SERIES / WALL WIDE\nHeadline: A wider field of sound.\nBody: Wall의 건축적 높이는 유지하고 직물의 면을 가로로 확장했습니다. 더 넓은 벽면을 하나의 작품과 사운드 장면으로 연결합니다.\nMobile: 더 넓어진 사운드의 면.",
+      "proof_of": "기존 Wall 대비 약 3배 확장된 가로 폭과 동일한 재료·슬롯 구조",
+      "asset_id": "ST3-WALL-WIDE-01",
+      "cta": "Explore Wall Wide"
+    },
+    {
+      "section": "05C Color selector / Terracotta",
+      "communication_job": "Wall Wide 컬러 선택기의 기본 상태를 보여주고 hover 종료 시 복귀한다.",
+      "copy": "Color chip: Terracotta / #C2513A / Primary and default state",
+      "proof_of": "동일한 제품 형상에서 직물 컬러만 변경되는 기본 상태",
+      "asset_id": "ST3-WALL-COLOR-TERRACOTTA",
+      "cta": "Default on load and pointer leave"
+    },
+    {
+      "section": "05C Color selector / Ivory",
+      "communication_job": "Ivory 컬러칩 hover 상태를 보여준다.",
+      "copy": "Color chip: Ivory / #E7E0D2",
+      "proof_of": "고정된 제품 형상과 아이보리 직물 마감",
+      "asset_id": "ST3-WALL-COLOR-IVORY",
+      "cta": "Swap on hover or keyboard focus"
+    },
+    {
+      "section": "05C Color selector / Beige",
+      "communication_job": "Beige 컬러칩 hover 상태를 보여준다.",
+      "copy": "Color chip: Beige / #B9A58F",
+      "proof_of": "고정된 제품 형상과 베이지 직물 마감",
+      "asset_id": "ST3-WALL-COLOR-BEIGE",
+      "cta": "Swap on hover or keyboard focus"
+    },
+    {
+      "section": "05C Color selector / Cobalt Blue",
+      "communication_job": "Cobalt Blue 컬러칩 hover 상태를 보여준다.",
+      "copy": "Color chip: Cobalt Blue / #2457C5",
+      "proof_of": "고정된 제품 형상과 코발트 블루 직물 마감",
+      "asset_id": "ST3-WALL-COLOR-COBALT",
+      "cta": "Swap on hover or keyboard focus"
+    },
+    {
+      "section": "05C Color selector / Deep Green",
+      "communication_job": "Deep Green 컬러칩 hover 상태를 보여준다.",
+      "copy": "Color chip: Deep Green / #173F35",
+      "proof_of": "고정된 제품 형상과 딥 그린 직물 마감",
+      "asset_id": "ST3-WALL-COLOR-GREEN",
+      "cta": "Swap on hover or keyboard focus"
+    },
+    {
+      "section": "05D Wall concept overview",
+      "communication_job": "사용자 제공 Wall 콘셉트로 세로형 제품과 카피 여백을 보조한다.",
+      "copy": "Wall / architectural concept reference",
+      "proof_of": "세로 비례와 건축 면 통합",
+      "asset_id": "ST3-REF-WALL-01",
+      "cta": "View Wall"
+    },
+    {
+      "section": "05E Material detail",
+      "communication_job": "직물, 오크 프레임, 하단 슬롯의 촉각적 디테일을 보여준다.",
+      "copy": "Woven textile. Pale oak. One recessed acoustic line.",
+      "proof_of": "재료 표면과 결합부",
+      "asset_id": "ST3-REF-WALL-DETAIL",
+      "cta": "Explore materials"
+    },
+    {
+      "section": "06 Niche",
+      "communication_job": "Niche가 공간의 여러 면을 입체적인 사운드로 연결함을 설명한다.",
+      "copy": "Eyebrow: STILL SERIES / NICHE\nHeadline: Every surface holds a dimension of sound.\nBody: 가느다란 비례와 페어 구성이 선반 옆, 통로 사이, 작은 벽면까지 사운드의 깊이를 확장합니다. 눈에 띄는 부피 없이 공간의 여러 면을 하나의 음악 경험으로 잇습니다.\nMobile: 모든 면이 사운드의 깊이가 됩니다.",
+      "proof_of": "좁은 세로 실루엣, 동일 페어, 분산된 건축 면 배치",
+      "asset_id": "ST3-NICHE-01",
+      "cta": "Explore Niche"
+    },
+    {
+      "section": "06B Niche concept",
+      "communication_job": "사용자 제공 Niche 콘셉트로 페어의 건축 통합 방식을 보조한다.",
+      "copy": "Niche / paired architectural placement",
+      "proof_of": "선반 좌우의 좁은 면과 페어 구성",
+      "asset_id": "ST3-REF-NICHE-01",
+      "cta": "View Niche placement"
+    },
+    {
+      "section": "07 Beam",
+      "communication_job": "Beam이 건축의 수평선을 따라 사운드와 진동을 펼치는 경험을 설명한다.",
+      "copy": "Eyebrow: STILL SERIES / BEAM\nHeadline: A horizon you can feel.\nBody: 낮고 긴 직물 면이 건축의 수평선에 스며듭니다. 시각적 부피를 더하지 않으면서 공간을 가로지르는 음악의 깊이와 미세한 진동을 감각하게 합니다.\nMobile: 눈이 아니라 온몸으로 만나는 수평선.",
+      "proof_of": "수평 실루엣, 연속 직물 면, 가구선 정렬",
+      "asset_id": "ST3-BEAM-01",
+      "cta": "Explore Beam"
+    },
+    {
+      "section": "07B Beam concept",
+      "communication_job": "사용자 제공 Beam 콘셉트로 벤치와 창의 수평선 통합을 보조한다.",
+      "copy": "Beam / built into the architectural horizon",
+      "proof_of": "벤치 하부와 창턱에 이어지는 수평 설치",
+      "asset_id": "ST3-REF-BEAM-01",
+      "cta": "View Beam placement"
+    },
+    {
+      "section": "08 Private listening",
+      "communication_job": "브랜드의 입체적·촉각적 사운드를 직접 경험하려는 욕구로 전환한다.",
+      "copy": "Eyebrow: PRIVATE LISTENING\nHeadline: Enter the room. Feel every note.\nBody: 설명만으로는 충분하지 않은 사운드가 있습니다. 공간의 깊이로 펼쳐지고, 미세한 진동으로 몸에 닿는 TEKLA SOUND를 프라이빗 리스닝에서 경험하세요.\nMobile: 공간이 음악이 되는 순간을 직접 느껴보세요.",
+      "proof_of": "공간별 Still Series와 몰입형 감각 경험",
+      "asset_id": "ST3-WALL-01",
+      "cta": "Book a private listening"
+    }
+  ],
+  "registered_product_assets": [
+    "ST3-WALL-01",
+    "ST3-NICHE-01",
+    "ST3-BEAM-01",
+    "ST3-WALL-WIDE-01",
+    "ST3-WALL-COLOR-TERRACOTTA",
+    "ST3-WALL-COLOR-IVORY",
+    "ST3-WALL-COLOR-BEIGE",
+    "ST3-WALL-COLOR-COBALT",
+    "ST3-WALL-COLOR-GREEN",
+    "ST3-REF-WALL-01",
+    "ST3-REF-WALL-DETAIL",
+    "ST3-REF-NICHE-01",
+    "ST3-REF-BEAM-01"
+  ],
+  "boundaries": {
+    "key_insight": "아래 값은 현행 하이엔드·건축형 오디오를 기준으로 설정한 TEKLA SOUND의 개발 목표이며 최종 판매 사양은 프로토타입 측정과 설치 엔지니어링 후 확정한다.",
+    "unverified_claims": [
+      "3D sound target — 다채널 DSP, 청취 위치 기반 룸 보정, 빔 방향·폭 제어를 결합한 공간 맞춤형 시스템. 기본 2채널에서 Wall·Niche·Beam을 조합한 4–8채널 공간 구성까지 확장한다.",
+      "Acoustic target — 전체 시스템 20 Hz–24 kHz 목표, 각 건축형 모듈 50/60/80 Hz–22 kHz 목표, 최대 음압은 설치 규모에 따라 110–120 dB SPL @1 m 범위로 개발한다.",
+      "Tactile target — 20–80 Hz 저역 에너지는 숨겨진 서브우퍼와 선택형 구조 진동 모듈로 보강해 작은 음량에서도 질감과 진동을 느끼는 방향으로 튜닝한다.",
+      "Driver and connection concept — Wall은 평면형 중·고역 드라이버와 저역 모듈, Niche는 슬림 라인 배열, Beam은 수평 라인 배열을 기본으로 한다. 클래스 D 멀티앰핑과 DSP를 사용하며 전원·신호는 벽체 내부 유선 백본, 제어는 Ethernet/Wi-Fi 기반으로 설계한다.",
+      "Directional dimensions and installation — Wall 약 900×500×95 mm, Niche 각 약 800×180×90 mm의 페어, Beam 약 1600×300×95 mm. 매립 또는 얕은 섀도 갭 브래킷 설치와 교체 가능한 전면 직물을 전제로 한다.",
+      "Price architecture — Basic Wall system 약 1억 원부터, Niche·Beam 및 룸 보정·설치 범위에 따라 1.5억–3.5억 원, 전체 공간 맞춤형 플래그십 구성은 최대 약 5억 원으로 설정한다.",
+      "Sustainability and manufacturing direction — FSC 인증 오크, 재활용 알루미늄 사용 목표, 교체 가능한 직물 전면, 분해·수리 가능한 드라이버·DSP·앰프 모듈, 지역 설치와 회수·리퍼비시 프로그램을 기본 원칙으로 한다. 인증과 재활용 함량은 공급망 확정 후 공개한다."
+    ],
+    "protected_brand_and_product_invariants": [
+      "earth-red woven acoustic face",
+      "pale-oak perimeter frame",
+      "one recessed dark acoustic slot",
+      "no visible driver or cable",
+      "Wall portrait / Niche narrow pair / Beam low-wide proportions",
+      "Pretendard-only typography using weights 300, 400, 500, and 600",
+      "quiet material-led voice"
+    ],
+    "out_of_scope": [
+      "landing page code",
+      "component system",
+      "new brand strategy",
+      "양산 전 최종 음향 측정",
+      "법적 인증과 확정 성능 보증"
+    ]
+  }
+}

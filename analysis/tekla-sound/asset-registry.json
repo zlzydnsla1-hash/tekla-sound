@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.1.0",
+  "artifact_type": "brand_asset_registry",
+  "stage": "extended_brand_anatomy",
+  "assets": [
+    {
+      "asset_id": "ST2-PRODUCT-HERO-01",
+      "role": "representative_product_hero",
+      "communication_job": "브랜드 세계관과 Wall의 대표 형태를 즉시 이해시키고 왼쪽에 런칭 카피 공간을 제공",
+      "file_path": "assets/product-hero/tekla-sound-wall-hero.png",
+      "prompt_path": "prompts/product-hero.md",
+      "subject": "TEKLA SOUND Wall mounted as one earth-red textile artwork in a quiet Scandinavian interior",
+      "aspect_ratio": "3:2 landscape",
+      "generation_provenance": "OpenAI built-in image generation; generated 2026-08-24 from approved Stage 2 direction and local concept references",
+      "reference_lineage": ["assets/references/still-wall-01-hero.jpg", "assets/references/still-wall-material-detail.jpg", "assets/references/still-niche-02.jpg"],
+      "invariants": ["tall portrait textile face", "earth-red woven surface near #c2513a", "slim pale-oak frame", "single lower recessed black slot", "no visible driver, cable, label, or logo", "continuous left copy-safe field"],
+      "allowed_variation": "earth-tone textile shade, oak grain, and copy-safe side may vary while product proportions remain fixed",
+      "invariant_check": "pass",
+      "status": "registered"
+    },
+    {
+      "asset_id": "ST2-BRAND-MOOD-01",
+      "role": "brand_mood",
+      "communication_job": "자연과 연결된 집에서 사운드 속에 쉬는 경험을 조용한 생활 관찰형 룩북으로 전달",
+      "file_path": "assets/brand-mood/tekla-sound-listening-lookbook.png",
+      "prompt_path": "prompts/brand-mood.md",
+      "subject": "late-30s Nordic woman resting in a lounge chair with TEKLA SOUND Wall integrated as artwork",
+      "aspect_ratio": "3:2 landscape",
+      "generation_provenance": "OpenAI built-in image generation; generated 2026-08-24 from approved Stage 2 direction and product reference",
+      "reference_lineage": ["assets/product-hero/tekla-sound-wall-hero.png", "assets/references/still-wall-material-detail.jpg"],
+      "invariants": ["one late-30s Nordic woman", "relaxed asymmetric pose and averted gaze", "natural daylight and skin texture", "Wall geometry and #c2513a textile preserved", "no device interaction or visible cable", "atmosphere before product detail"],
+      "allowed_variation": "future lookbook frames may vary sofa versus chair, pose, and window view while product identity and capture behavior remain fixed",
+      "invariant_check": "pass",
+      "status": "registered"
+    }
+  ]
+}

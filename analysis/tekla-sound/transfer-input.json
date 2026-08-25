@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.1.0",
+  "artifact_type": "brand_transfer_input",
+  "status": "ready",
+  "recorded_at": "2026-08-24T16:30:00+09:00",
+  "source_analysis": {
+    "reference_brand": "TEKLA",
+    "package_path": "C:/Users/alcls/OneDrive/바탕 화면/멱살챌린지_v2/analysis/tekla-source",
+    "json_path": "outputs/source-brand-analysis.json",
+    "review_path": "stage-review.json",
+    "review_status": "accepted"
+  },
+  "product": {
+    "working_name": "TEKLA SOUND",
+    "category": "high-end architectural home audio",
+    "product_mode": "physical",
+    "audience": "자연과 조화를 이루는 주거 경험을 중시하며 인테리어에 작품처럼 통합되는 사운드 시스템을 원하는 30대 후반~50대 후반 고소득층",
+    "use_contexts": ["거실에서 휴식과 감상", "건축·인테리어에 통합된 일상 청취", "프라이빗 청음과 공간별 분산 재생"],
+    "desired_outcome": "기존 스피커의 기계적 존재감을 줄이고 패브릭 작품과 건축 요소가 공간 전체를 울리는 듯한 차분한 하이엔드 사운드 경험",
+    "known_facts": ["Wall, Niche, Beam의 3종 탐색형 패밀리", "어스톤 패브릭 전면, 밝은 원목 프레임, 하단의 얇은 음향 슬롯", "정체성 컬러 #c2513a 계열"],
+    "open_concept": true,
+    "priorities": ["브랜드 세계관과 신제품 공개", "제품 라인업 탐색", "프라이빗 청음 예약"]
+  },
+  "source_relationship": {
+    "qualities_to_apply": ["기능과 형태의 결합", "촉각적인 패브릭 중심성", "절제된 북유럽 공간감", "소재를 정직하게 보여주는 표현", "조용한 프리미엄 태도"],
+    "traits_to_avoid": ["TEKLA 로고·라벨·제품 실루엣의 직접 복제", "침구 광고처럼 보이는 연출", "기존 TEKLA 제품 사진과 캠페인 구도의 모사"]
+  },
+  "understood_direction": ["TEKLA의 핵심 철학을 패브릭에서 하이엔드 사운드로 전환", "스피커를 벽에 걸린 작품이자 공간 마감 요소로 인식", "부드러운 생활감을 건축적 음향 오브제와 정밀한 사운드 경험으로 변환"],
+  "lineup_mode": "exploratory_family",
+  "visual_priority": "분위기 우선, 사용 경험, 제품 형태와 소재 디테일 순. 자연광의 절제된 북유럽 주거 공간에서 30대 북유럽 여성 모델이 소파나 라운지체어에 쉬며 사운드를 경험하는 생활 관찰형 룩북",
+  "landing_goal": "브랜드 세계관과 신제품 공개, 제품 라인업 탐색, 프라이빗 청음 예약 유도 순",
+  "narrative_preference": "스피커를 배치하는 대신 건축과 패브릭 안에 사운드를 통합한다",
+  "token_preferences": {"color": "tune", "typography": "tune", "spacing": "tune", "layout": "tune", "shape": "new", "motion": "new"},
+  "assumptions": ["음향 성능, 치수, 소재 사양은 미확정", "Wall, Niche, Beam은 최종 상품명이 아닌 작업명", "참고 이미지는 reference/tekla-sound/product-concepts에 보관"],
+  "user_response_excerpts": ["TEKLA SOUND", "30대 후반~50대 후반 고소득층, 자연과 어우러지는 경험을 추구", "마치 벽에 걸린 작품처럼 어우러지는 공간 사운드 경험", "라인업 승인", "source distance 승인", "시각 우선순위와 모델 방향 승인", "브랜드 세계관과 신제품 공개 -> 제품 라인업 탐색 -> 프라이빗 청음 예약 유도"]
+}

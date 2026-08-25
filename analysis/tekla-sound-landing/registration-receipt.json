@@ -1,0 +1,9 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "brand_report_registration_receipt",
+  "stage": "landing_materials",
+  "report_id": "tekla-sound-landing-materials",
+  "package_sha256": "e93286ae9cf3f44dc3d3d0398eedaa61d34d6c51a98a75efa6ff74a4287121cb",
+  "review_status": "accepted",
+  "finalized_at": "2026-08-24T08:39:01.579Z"
+}

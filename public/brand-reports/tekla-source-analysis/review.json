@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "stage_review",
+  "stage": "source_brand_analysis",
+  "status": "accepted",
+  "pipeline_state_path": "",
+  "review_targets": [
+    "TEKLA source brand anatomy report and canonical JSON"
+  ],
+  "adjustment_prompts": [
+    "Confirm the identity color pair (#181818 on #F6F6F6) and the favicon-only logo evidence are acceptable, or flag a preferred wordmark source before Stage 2 begins."
+  ],
+  "user_feedback": [
+    "Accepted as observed: identity color pair (#181818 on #F6F6F6) and favicon-only logo evidence stand as recorded. Target color direction (#c2513a earth tone) deferred to Stage 2, not applied to Stage 1 source data."
+  ],
+  "updated_at": "2026-08-24T05:40:00Z"
+}

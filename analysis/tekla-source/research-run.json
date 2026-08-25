@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "brand_research_run",
+  "mode": "rapid",
+  "timebox_minutes": 10,
+  "started_at": "2026-08-24T05:20:00.670895+00:00",
+  "deadline_at": "2026-08-24T05:30:00.670895+00:00",
+  "completed_at": "2026-08-24T05:29:37.617178+00:00",
+  "elapsed_seconds": 577,
+  "status": "completed",
+  "stop_reason": "coverage_complete"
+}

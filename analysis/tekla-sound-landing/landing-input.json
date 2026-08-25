@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.1.0",
+  "artifact_type": "landing_materials_input",
+  "status": "locked",
+  "extended_brand_source": {"package_path": "analysis/tekla-sound", "json_path": "outputs/extended-brand-anatomy.json", "asset_registry_path": "asset-registry.json", "review_path": "stage-review.json"},
+  "language": "Korean-first with approved English brand lines",
+  "landing_goal": "브랜드 세계관과 Still Series를 소개한 뒤 프라이빗 리스닝 문의로 연결",
+  "goal_source": "accepted Stage 2 moodboard hierarchy and CTA order",
+  "selected_narrative_route": "R1 evolved — Sound built into space",
+  "known_constraints": ["성능, 음향 수치, 연결 방식, 설치 방식, 가격, 지속가능성, 제조 관련 미승인 주장 금지", "Wall, Niche, Beam의 비례와 공통 재료 언어 유지", "랜딩페이지 코드와 컴포넌트 시스템은 범위 밖", "브랜드 타이포그래피는 Pretendard만 사용하고 Light 300부터 SemiBold 600까지만 허용"],
+  "user_wording": ["stage2까지 컨펌", "build-landing-materials 스킬로 stage3 시작"]
+}

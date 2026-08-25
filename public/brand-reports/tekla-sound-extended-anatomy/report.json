@@ -1,0 +1,747 @@
+{
+  "schema_version": "1.1.0",
+  "artifact_type": "extended_brand_anatomy",
+  "generated_at": "2026-08-24T17:00:00+09:00",
+  "source_analysis": {
+    "brand": "TEKLA",
+    "package_path": "analysis/tekla-source",
+    "json_path": "outputs/source-brand-analysis.json"
+  },
+  "target": {
+    "working_name": "TEKLA SOUND",
+    "category": "high-end architectural home audio",
+    "product_mode": "physical",
+    "audience": "자연과 조화를 이루는 주거 경험과 인테리어에 통합되는 사운드를 원하는 30대 후반~50대 후반 고소득층",
+    "use_contexts": [
+      "거실의 휴식과 감상",
+      "공간별 분산 재생",
+      "프라이빗 청음"
+    ],
+    "direction_status": "directional"
+  },
+  "sections": {
+    "source_grammar_application": {
+      "key_insight": "TEKLA의 핵심은 패브릭 표면을 복제하는 일이 아니라 일상의 소재와 기능을 하나의 조용한 형태로 결속하는 방식에 있다.",
+      "summary": "기능과 형태, 촉각성과 정밀성, 생활의 온기와 제품 증명의 분리를 사운드 카테고리에 적용한다.",
+      "decisions": [
+        {
+          "source_signal": "form and function",
+          "semantic_job": "프리미엄의 근거를 장식이 아닌 쓰임으로 만든다",
+          "relationship": "keep",
+          "target_direction": "음향 구조가 프레임·패브릭·슬롯의 비례를 결정",
+          "source_boundary": "TEKLA 문구와 제품 실루엣은 복제하지 않음"
+        },
+        {
+          "source_signal": "woven material centrality",
+          "semantic_job": "촉각적 친밀감과 품질 증명",
+          "relationship": "tune",
+          "target_direction": "음향 투과 직물의 섬유와 장력을 제품의 얼굴로 사용",
+          "source_boundary": "직조 라벨과 침구 디테일은 차용하지 않음"
+        },
+        {
+          "source_signal": "single product in negative space",
+          "semantic_job": "형태를 빠르게 인지시키고 과잉을 억제",
+          "relationship": "tune",
+          "target_direction": "건축 벽면 속 한 점의 음향 작품과 넓은 카피 필드",
+          "source_boundary": "TEKLA의 구도나 장소를 재현하지 않음"
+        },
+        {
+          "source_signal": "mood and proof separated",
+          "semantic_job": "감정과 제품 신뢰를 각자 명료하게 전달",
+          "relationship": "keep",
+          "target_direction": "생활 관찰형 룩북과 정면·재료 증명 컷을 분리",
+          "source_boundary": "침구 광고의 생활 연출을 피함"
+        },
+        {
+          "source_signal": "quiet declarative voice",
+          "semantic_job": "과장 없이 가치와 근거를 전달",
+          "relationship": "tune",
+          "target_direction": "공간·소재·청취 경험 중심의 짧은 문장",
+          "source_boundary": "TEKLA 고유 문구를 재사용하지 않음"
+        }
+      ]
+    },
+    "brand_positioning": {
+      "key_insight": "TEKLA SOUND는 소리를 내는 가구가 아니라 공간을 완성하는 촉각적 건축 오디오다.",
+      "category_frame": "architectural textile sound objects",
+      "audience": "디자인과 자연을 중시하고 기술의 시각적 소음을 원하지 않는 고소득 주거 고객과 공간 전문가",
+      "user_outcome": "스피커를 바라보지 않아도 공간 전체가 차분하게 울리는 몰입과 휴식",
+      "positioning_statement": "기존 하이엔드 스피커가 성능을 기계적 조형으로 과시할 때 TEKLA SOUND는 직물, 원목, 건축 비례 안에 음향을 통합해 감상과 인테리어를 하나의 경험으로 만든다.",
+      "promise": "Sound, woven into space.",
+      "proof": [
+        "공간별로 다른 비례를 갖는 Wall·Niche·Beam",
+        "음향 투과 직물과 원목 프레임의 일관된 구조",
+        "설치 후 벽면과 하나로 읽히는 얕은 깊이와 숨은 연결",
+        "프라이빗 청음에서 확인하는 공간 맞춤 경험"
+      ]
+    },
+    "landing_product_concept": {
+      "key_insight": "세 제품은 크기 차이가 아니라 벽, 틈, 수평 건축선이라는 서로 다른 공간 조건을 맡는다.",
+      "one_line_definition": "직물 작품의 촉감과 건축적 비례로 공간에 통합되는 3종 하이엔드 스피커 패밀리.",
+      "user_and_use_situation": "차분한 거실과 개인 공간에서 기기의 존재감 없이 음악을 듣고, 인테리어 설계 단계부터 사운드를 통합하려는 사용자.",
+      "core_value": "사운드를 배치하는 대신 공간에 짜 넣는다.",
+      "lineup_mode": "exploratory_family",
+      "landing_features": [
+        "작품처럼 걸리는 얕은 건축형 비례",
+        "교체 가능한 방향성 음향 직물",
+        "원목 프레임과 숨은 음향 슬롯",
+        "Wall·Niche·Beam으로 연결되는 공간별 시스템"
+      ],
+      "product_family": {
+        "working_name": "Still Series",
+        "promise": "하나의 재료 언어로 벽과 틈과 수평선을 울린다.",
+        "shared_architecture": "얕은 후면 음향 캐비닛, 음향 투과 직물 전면, 밝은 원목 경계 프레임, 하단 또는 측면의 절제된 음향 슬롯, 숨은 벽 고정과 연결부",
+        "shared_invariants": [
+          "earth-red woven acoustic face",
+          "pale-oak perimeter frame",
+          "one recessed dark acoustic slot",
+          "no visible driver or cable",
+          "architectural flush-or-shadow-gap installation"
+        ],
+        "cognitive_invariants": [
+          "첫눈에는 작품, 가까이서는 직물, 사용 중에는 공간 사운드로 인지",
+          "조작보다 청취와 건축적 존재가 우선"
+        ],
+        "differentiation_logic": "Wall은 대표 오브제, Niche는 대칭·분산 구성, Beam은 수평 건축선 통합을 담당한다.",
+        "status": "directional"
+      },
+      "product_lineup": [
+        {
+          "product_name": "TEKLA SOUND Wall",
+          "product_type": "portrait wall-mounted speaker",
+          "lineup_role": "대표 제품과 브랜드 아이콘",
+          "use_case": "거실의 한 벽에서 단독 또는 스테레오 감상",
+          "differentiator": "직물 작품처럼 읽히는 세로 비례",
+          "form_cues": [
+            "tall portrait rectangle",
+            "broad woven face",
+            "slim pale-oak frame",
+            "lower recessed acoustic slot",
+            "shallow wall shadow gap"
+          ],
+          "allowed_variation": "직물의 earth-tone shade와 목재 결만 변화",
+          "product_usp": "대표 작품 한 점으로 공간의 중심과 사운드를 동시에 만든다.",
+          "landing_message": "A sound object for the wall.",
+          "image_roles": [
+            "hero form",
+            "scale in room",
+            "textile and slot detail",
+            "listening use"
+          ]
+        },
+        {
+          "product_name": "TEKLA SOUND Niche",
+          "product_type": "slim distributed wall speaker",
+          "lineup_role": "쌍 또는 분산 설치 모델",
+          "use_case": "책장 옆, 알코브, 작은 방에 좌우 또는 다점 배치",
+          "differentiator": "좁은 벽면과 대칭 구성을 위한 슬림 폭",
+          "form_cues": [
+            "narrow portrait rectangle",
+            "paired placement",
+            "same woven face and oak edge",
+            "recessed lower slot"
+          ],
+          "allowed_variation": "싱글, 페어, 다점 수량만 변화",
+          "product_usp": "좁은 건축 틈을 균형 잡힌 사운드 필드로 바꾼다.",
+          "landing_message": "Sound finds the quiet spaces.",
+          "image_roles": [
+            "paired niche context",
+            "family comparison",
+            "distributed-room proof"
+          ]
+        },
+        {
+          "product_name": "TEKLA SOUND Beam",
+          "product_type": "horizontal architectural speaker",
+          "lineup_role": "수평 통합 모델",
+          "use_case": "창가, 벤치, 선반, 긴 벽체와 결합",
+          "differentiator": "건축의 수평선과 일치하는 와이드 비례",
+          "form_cues": [
+            "low wide rectangle",
+            "continuous woven span",
+            "pale-oak horizontal datum",
+            "recessed linear acoustic slot"
+          ],
+          "allowed_variation": "공간 폭에 따른 세 가지 길이만 변화",
+          "product_usp": "가구와 벽의 수평선을 끊지 않고 넓은 공간을 채운다.",
+          "landing_message": "A horizon of sound.",
+          "image_roles": [
+            "architectural integration",
+            "wide-room scale",
+            "linear slot detail"
+          ]
+        }
+      ],
+      "hero_product": "TEKLA SOUND Wall",
+      "necessary_variants": [
+        "TEKLA SOUND Niche",
+        "TEKLA SOUND Beam"
+      ],
+      "form_cues": {
+        "shared": [
+          "woven face",
+          "pale oak frame",
+          "dark recessed slot",
+          "hidden connection"
+        ],
+        "physical": [
+          "얕은 벽체 깊이",
+          "정확한 직각 비례",
+          "실제 직물 장력과 목재 접합"
+        ],
+        "digital": [],
+        "hybrid": []
+      },
+      "proof_image_roles": [
+        "Wall 대표 형태",
+        "세 제품의 실제 상대 비례",
+        "직물·프레임·슬롯의 재료 디테일",
+        "사람과 같은 평면에 놓인 공간 스케일",
+        "설치 후 케이블이 보이지 않는 상태"
+      ]
+    },
+    "verbal_branding_and_copy_hierarchy": {
+      "key_insight": "말은 기술 성능을 과장하기보다 공간 속에서 소리가 어떻게 느껴지는지를 짧게 보여준다.",
+      "brand_purpose": "사운드 기술과 생활 공간 사이의 시각적 긴장을 없앤다.",
+      "brand_essence": "Woven quiet.",
+      "brand_message": "Sound, woven into space.",
+      "brand_values": [
+        {
+          "name": "Material honesty",
+          "meaning": "직물과 목재, 음향 구조의 역할을 숨기지 않는다."
+        },
+        {
+          "name": "Spatial calm",
+          "meaning": "기술의 존재감보다 공간의 리듬을 우선한다."
+        },
+        {
+          "name": "Enduring form",
+          "meaning": "유행보다 건축과 오래 공존하는 비례를 선택한다."
+        }
+      ],
+      "family_usp": "벽, 틈, 수평선에 맞춘 세 비례가 하나의 패브릭 음향 언어로 연결된다.",
+      "product_usps": [
+        {
+          "product_name": "TEKLA SOUND Wall",
+          "usp": "한 점의 작품으로 공간의 중심과 사운드를 만든다."
+        },
+        {
+          "product_name": "TEKLA SOUND Niche",
+          "usp": "좁은 틈과 분산된 위치를 균형 잡힌 사운드 필드로 바꾼다."
+        },
+        {
+          "product_name": "TEKLA SOUND Beam",
+          "usp": "건축의 수평선을 유지하며 넓은 공간을 채운다."
+        }
+      ],
+      "voice": [
+        "quiet",
+        "precise",
+        "material-led",
+        "declarative"
+      ],
+      "vocabulary": [
+        "space",
+        "woven",
+        "quiet",
+        "material",
+        "listen",
+        "wall",
+        "horizon"
+      ],
+      "sentence_behavior": [
+        "한 문장에 한 주장",
+        "짧은 능동문",
+        "형용사보다 재료와 행동",
+        "근거 없는 최고급·혁신 표현 금지"
+      ],
+      "message_hierarchy": [
+        "Purpose: 기술과 공간의 긴장 해소",
+        "Essence: Woven quiet",
+        "Positioning: architectural textile sound",
+        "Message: Sound, woven into space",
+        "Values: material honesty / spatial calm / enduring form",
+        "Family and product USP",
+        "Launch headline",
+        "Private listening CTA"
+      ],
+      "headline_direction": [
+        "Sound, woven into space.",
+        "The wall becomes the room's quietest instrument."
+      ],
+      "supporting_copy_direction": [
+        "패브릭, 원목, 건축 비례가 소리를 공간의 일부로 만든다는 설명",
+        "Wall·Niche·Beam의 공간별 역할을 한 문장씩 제시"
+      ],
+      "cta_direction": [
+        "Explore the Still Series",
+        "Book a private listening"
+      ],
+      "narrative_routes": [
+        {
+          "route_id": "R1",
+          "name": "Woven into space",
+          "logic": "재료와 건축의 통합에서 제품군과 청음으로 이동"
+        },
+        {
+          "route_id": "R2",
+          "name": "From object to atmosphere",
+          "logic": "기계적 스피커를 지운 뒤 남는 공간 경험에서 제품을 발견"
+        }
+      ],
+      "selected_narrative_route": "R1",
+      "message_visual_map": {
+        "brand_message_to_key_visual": "넓은 벽면에 통합된 Wall 한 점과 카피 여백",
+        "brand_values_to_brand_mood": [
+          "자연광과 실제 주거 공간으로 spatial calm",
+          "직물·목재의 보이는 결로 material honesty",
+          "과장 없는 생활 관찰로 enduring form"
+        ],
+        "family_and_product_usp_to_product_imagery": [
+          "Wall은 단독 정면",
+          "Niche는 페어와 분산",
+          "Beam은 수평 건축선",
+          "모든 제품은 재료 디테일과 실제 스케일로 증명"
+        ]
+      },
+      "avoid": [
+        "audiophile jargon without proof",
+        "luxury superlatives",
+        "TEKLA source slogans",
+        "fashion-campaign cadence"
+      ]
+    },
+    "visual_branding_and_key_visual": {
+      "key_insight": "핵심 장면은 제품을 크게 과시하지 않고 넓은 건축 면 안에서 하나의 촉각적 음향 작품으로 발견하게 한다.",
+      "identity_behavior": [
+        "#c2513a textile field is the primary identity carrier",
+        "wordmark stays secondary to product material",
+        "warm off-white field and near-black copy preserve restraint"
+      ],
+      "communication_job": "브랜드 세계관과 Wall의 새로운 제품 유형을 한 장에서 이해시킨다.",
+      "premise": "one woven sound object within a large quiet architectural field",
+      "series_rule": "한 프레임에 한 제품 역할, 하나의 연속된 저대비 여백, 제품 고유 비례와 건축선의 정렬을 반복한다.",
+      "focal_actor": "TEKLA SOUND Wall의 earth-red woven face",
+      "type_message_image_product_ui_relationship": [
+        "카피는 낮은 디테일의 벽면 여백에만 배치",
+        "제품 실루엣과 그림자 위에 텍스트 금지",
+        "헤드라인 다음에 시리즈 탐색, 이후 청음 CTA"
+      ],
+      "repeatable_variables": [
+        "Wall/Niche/Beam product role",
+        "portrait or horizontal architecture",
+        "earth-tone textile shade",
+        "copy-safe side"
+      ],
+      "avoid": [
+        "floating packshot",
+        "visible driver array",
+        "busy gallery wall",
+        "source campaign recreation",
+        "logo-dominant composition"
+      ]
+    },
+    "brand_mood_and_brand_imagery": {
+      "key_insight": "브랜드 무드는 북유럽 라이프스타일을 연기하지 않고 한 사람이 소리 속에서 쉬는 관찰 가능한 순간으로 만든다.",
+      "communication_job": "제품의 혜택을 장비 소유가 아니라 자연과 연결된 휴식 경험으로 느끼게 한다.",
+      "emotional_and_cultural_register": [
+        "quiet confidence",
+        "Nordic domestic modernism",
+        "unperformed comfort",
+        "nature-adjacent calm"
+      ],
+      "world_setting_people": [
+        "warm lime-plaster and pale oak home",
+        "late-30s Nordic woman",
+        "sofa or lounge chair",
+        "gaze away from camera",
+        "speaker integrated as one artwork"
+      ],
+      "materials_and_sensory_cues": [
+        "woven acoustic textile",
+        "pale oak grain",
+        "linen or wool clothing",
+        "soft upholstery deformation",
+        "green view beyond window"
+      ],
+      "camera_light_color": [
+        "wide natural eye-level view",
+        "soft motivated window daylight",
+        "gentle low contrast",
+        "natural skin texture",
+        "muted film-like grade",
+        "#c2513a as restrained accent"
+      ],
+      "image_series_roles": [
+        "registered listening-at-rest anchor",
+        "future sofa variation",
+        "future chair variation",
+        "future material and nature transition"
+      ],
+      "avoid": [
+        "fashion pose",
+        "direct gaze",
+        "headphones",
+        "device interaction",
+        "bedding cues",
+        "luxury cliché",
+        "plastic skin"
+      ]
+    },
+    "product_visual_traits_and_product_imagery": {
+      "key_insight": "제품의 신뢰는 보이지 않는 기술을 상상시키는 대신 직물 장력, 프레임 접합, 얕은 깊이, 숨은 연결을 정확히 보여줄 때 생긴다.",
+      "communication_job": "세 제품의 공간별 역할과 실제 물성, 설치 상태를 구매 가능한 수준으로 이해시킨다.",
+      "product_visual_traits": {
+        "silhouette_or_screen_anatomy": [
+          "Wall tall portrait",
+          "Niche narrow paired portrait",
+          "Beam low wide horizon",
+          "single dark slot as recurring acoustic aperture"
+        ],
+        "proportion_hierarchy_density": [
+          "large calm textile plane",
+          "thin oak perimeter",
+          "small recessed dark opening",
+          "no decorative controls"
+        ],
+        "material_surface_or_component_character": [
+          "irregular woven fibers",
+          "pale-oak grain and clean joinery",
+          "matte dark slot",
+          "plausible shallow wall gap"
+        ],
+        "controls_states_feedback_visible_in_imagery": [
+          "no visible controls in hero",
+          "connected state shown by cable-free wall",
+          "installation and textile exchange remain directional gaps"
+        ]
+      },
+      "product_image_direction": {
+        "hero_form": [
+          "Wall complete silhouette, right-third placement, left copy-safe field",
+          "straight-on to slight three-quarter",
+          "natural room scale"
+        ],
+        "feature_detail": [
+          "woven fiber and tension",
+          "oak joint and lower slot",
+          "wall clearance and hidden mounting shadow"
+        ],
+        "use_interaction": [
+          "woman resting, no device handling",
+          "speaker and person share one spatial plane",
+          "atmosphere before demonstration"
+        ],
+        "state_proof": [
+          "installed cable-free state",
+          "paired Niche configuration",
+          "Beam aligned to horizontal architecture"
+        ],
+        "camera_light_background_crop_retouching": [
+          "soft directional window light",
+          "accurate verticals and vanishing point",
+          "warm plaster and pale oak",
+          "retain texture and midtones",
+          "invisible retouching",
+          "responsive copy clearance"
+        ],
+        "avoid": [
+          "CGI gloss",
+          "driver close-up invented without engineering",
+          "impossible acoustic claims",
+          "inconsistent proportions",
+          "extra slots or cables"
+        ]
+      }
+    },
+    "design_token_direction": {
+      "key_insight": "색은 TEKLA의 검정·오프화이트 대비 역할을 유지하되 제품의 직물색 #c2513a가 정체성의 중심이 되도록 재배치한다.",
+      "documentation_only": true,
+      "color": [
+        {
+          "name": "Woven Earth",
+          "value": "#C2513A",
+          "color_layer": "identity",
+          "role": "primary identity and product textile",
+          "relationship": "new",
+          "source_basis": "user-approved earth-tone transition; source identity accent was not verified",
+          "target_direction": "warm mineral red with woven material response",
+          "landing_use": "hero product face, small active emphasis, swatch",
+          "status": "directional"
+        },
+        {
+          "name": "Quiet Canvas",
+          "value": "#F3EFE7",
+          "color_layer": "identity",
+          "role": "primary canvas",
+          "relationship": "tune",
+          "source_basis": "TEKLA observed warm off-white #F6F6F6",
+          "target_direction": "slightly warmer plaster-like field",
+          "landing_use": "page canvas and wide negative space",
+          "status": "directional"
+        },
+        {
+          "name": "Acoustic Ink",
+          "value": "#1B1A18",
+          "color_layer": "identity",
+          "role": "copy and acoustic aperture",
+          "relationship": "tune",
+          "source_basis": "TEKLA observed identity ink #181818",
+          "target_direction": "near-black softened by warm undertone",
+          "landing_use": "body copy, labels, lower slot",
+          "status": "directional"
+        },
+        {
+          "name": "Pale Oak",
+          "value": "#C8A77B",
+          "color_layer": "material",
+          "role": "supporting material cue",
+          "relationship": "new",
+          "source_basis": "target product references",
+          "target_direction": "natural pale oak without orange saturation",
+          "landing_use": "material swatch and image support",
+          "status": "directional"
+        }
+      ],
+      "typography_sources": [
+        {
+          "id": "PRETENDARD-WEB",
+          "family": "Pretendard",
+          "source_type": "stylesheet",
+          "url": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css",
+          "weights": "300, 400, 500, 600 only",
+          "license_boundary": "Pretendard SIL Open Font License 1.1; verify CDN and self-hosting policy before production",
+          "status": "directional"
+        }
+      ],
+      "typography": [
+        {
+          "role": "Display",
+          "font_family": "Pretendard",
+          "font_source_id": "PRETENDARD-WEB",
+          "font_size": "clamp(4rem, 9vw, 8.5rem)",
+          "font_weight": "300",
+          "line_height": "0.94",
+          "letter_spacing": "-0.045em",
+          "specimen": "Sound, woven in to space.",
+          "relationship": "new",
+          "source_basis": "user-directed Pretendard-only brand typography",
+          "target_direction": "Light-weight architectural statement with restrained density",
+          "landing_use": "launch hero",
+          "status": "directional"
+        },
+        {
+          "role": "H1",
+          "font_family": "Pretendard",
+          "font_source_id": "PRETENDARD-WEB",
+          "font_size": "clamp(3rem, 6vw, 5.5rem)",
+          "font_weight": "300",
+          "line_height": "1.0",
+          "letter_spacing": "-0.035em",
+          "specimen": "Redefining the sound experience forever.",
+          "relationship": "new",
+          "source_basis": "user-directed Pretendard-only brand typography",
+          "target_direction": "Light editorial heading with Korean and Latin continuity",
+          "landing_use": "brand story and series introduction",
+          "status": "directional"
+        },
+        {
+          "role": "H2",
+          "font_family": "Pretendard",
+          "font_source_id": "PRETENDARD-WEB",
+          "font_size": "clamp(2.25rem, 4vw, 3.75rem)",
+          "font_weight": "400",
+          "line_height": "1.06",
+          "letter_spacing": "-0.03em",
+          "specimen": "We focuses on spatial experiences.",
+          "relationship": "new",
+          "source_basis": "user-directed Pretendard-only brand typography",
+          "target_direction": "Regular-weight section thesis",
+          "landing_use": "value and product-family sections",
+          "status": "directional"
+        },
+        {
+          "role": "H3",
+          "font_family": "Pretendard",
+          "font_source_id": "PRETENDARD-WEB",
+          "font_size": "1.75rem",
+          "font_weight": "500",
+          "line_height": "1.15",
+          "letter_spacing": "-0.02em",
+          "specimen": "TEKLA SOUND Wall",
+          "relationship": "new",
+          "source_basis": "user-directed Pretendard-only brand typography",
+          "target_direction": "Medium-weight precise product title",
+          "landing_use": "product cards",
+          "status": "directional"
+        },
+        {
+          "role": "Body",
+          "font_family": "Pretendard",
+          "font_source_id": "PRETENDARD-WEB",
+          "font_size": "1.125rem",
+          "font_weight": "400",
+          "line_height": "1.65",
+          "letter_spacing": "-0.012em",
+          "specimen": "사운드는 보이는 것이 아니라 공간 안에서 경험하는 것입니다.",
+          "relationship": "new",
+          "source_basis": "user-directed Pretendard-only brand typography",
+          "target_direction": "Regular-weight Korean-first reading texture",
+          "landing_use": "positioning and product description",
+          "status": "directional"
+        },
+        {
+          "role": "Label",
+          "font_family": "Pretendard",
+          "font_source_id": "PRETENDARD-WEB",
+          "font_size": "0.75rem",
+          "font_weight": "600",
+          "line_height": "1.2",
+          "letter_spacing": "0.1em",
+          "specimen": "EXPLORE WALL",
+          "relationship": "new",
+          "source_basis": "user-directed Pretendard-only brand typography",
+          "target_direction": "SemiBold compact uppercase wayfinding",
+          "landing_use": "navigation, CTA, metadata",
+          "status": "directional"
+        },
+        {
+          "role": "Caption",
+          "font_family": "Pretendard",
+          "font_source_id": "PRETENDARD-WEB",
+          "font_size": "0.75rem",
+          "font_weight": "300",
+          "line_height": "1.5",
+          "letter_spacing": "0",
+          "specimen": "Woven acoustic textile / Earth red",
+          "relationship": "new",
+          "source_basis": "user-directed Pretendard-only brand typography",
+          "target_direction": "Light factual annotation",
+          "landing_use": "image and material captions",
+          "status": "directional"
+        }
+      ],
+      "spacing": [
+        {
+          "role": "section rhythm",
+          "relationship": "tune",
+          "source_basis": "source generous negative space; exact metrics unresolved",
+          "target_direction": "large 96–176px desktop section intervals with denser proof modules",
+          "landing_use": "worldview-to-lineup pacing",
+          "status": "directional"
+        }
+      ],
+      "layout": [
+        {
+          "role": "architectural editorial grid",
+          "relationship": "tune",
+          "source_basis": "source centered product and plain field",
+          "target_direction": "12-column grid alternating full-bleed quiet fields and material proof bands",
+          "landing_use": "hero, lineup, lookbook, listening CTA",
+          "status": "directional"
+        }
+      ],
+      "shape": [
+        {
+          "role": "frame and control geometry",
+          "relationship": "new",
+          "source_basis": "target product references",
+          "target_direction": "square corners, hairline borders, no pill containers except functional status",
+          "landing_use": "image frames, swatches, CTA outlines",
+          "status": "directional"
+        }
+      ],
+      "motion": [
+        {
+          "role": "reveal and listening transition",
+          "relationship": "new",
+          "source_basis": "source motion gap; target landing need",
+          "target_direction": "slow opacity and crop reveals, 500–900ms, no bounce or parallax spectacle",
+          "landing_use": "worldview reveal and lineup transitions",
+          "status": "directional"
+        }
+      ]
+    }
+  },
+  "moodboard_inputs": {
+    "copywriting": {
+      "message": "Sound, woven into space.",
+      "voice": [
+        "quiet",
+        "precise",
+        "material-led"
+      ],
+      "cta_order": [
+        "Explore the Still Series",
+        "Book a private listening"
+      ]
+    },
+    "hierarchy": {
+      "sequence": [
+        "worldview and launch",
+        "lineup exploration",
+        "private listening"
+      ],
+      "visual_priority": [
+        "atmosphere",
+        "use experience",
+        "form and material detail"
+      ]
+    },
+    "brand_mood_images": {
+      "anchor": "ST2-BRAND-MOOD-01",
+      "scene": "Nordic woman resting in a nature-adjacent Scandinavian home with Wall integrated as artwork",
+      "future_variations": [
+        "sofa",
+        "lounge chair",
+        "wider nature view"
+      ]
+    },
+    "product_description": {
+      "family": "Still Series",
+      "shared_language": "woven acoustic face, pale oak frame, recessed dark slot",
+      "lineup": [
+        "TEKLA SOUND Wall",
+        "TEKLA SOUND Niche",
+        "TEKLA SOUND Beam"
+      ]
+    },
+    "product_image_generation": {
+      "anchor": "ST2-PRODUCT-HERO-01",
+      "jobs": [
+        "hero form",
+        "material detail",
+        "scale in context",
+        "installed-state proof"
+      ],
+      "constraints": [
+        "preserve family proportions",
+        "no visible driver or cable",
+        "real textile and wood",
+        "accurate architectural perspective"
+      ]
+    }
+  },
+  "boundaries": {
+    "source_traits_not_to_copy": [
+      "TEKLA logo and woven label artwork",
+      "TEKLA product silhouettes",
+      "TEKLA storefront and campaign compositions",
+      "TEKLA mission copy"
+    ],
+    "assumptions": [
+      "Wall/Niche/Beam and Still Series are directional working names",
+      "product performance and exact dimensions are open",
+      "reference images are concept evidence, not engineering specifications"
+    ],
+    "factual_limits": [
+      "acoustic response, driver topology, connectivity, installation, pricing, sustainability, and manufacturing values are user-approved directional development targets benchmarked against current high-end systems; prototype measurement, certification, and supplier validation remain required before sales use",
+      "typography and token values are documentation-only",
+      "Stage 1 typography and spacing measurements remain unresolved"
+    ]
+  },
+  "registered_anchor_assets": [
+    "ST2-PRODUCT-HERO-01",
+    "ST2-BRAND-MOOD-01"
+  ]
+}

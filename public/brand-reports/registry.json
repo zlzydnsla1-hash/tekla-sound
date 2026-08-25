@@ -1,5 +1,45 @@
 {
   "schema_version": "1.0.0",
   "artifact_type": "brand_report_registry",
-  "reports": []
+  "reports": [
+    {
+      "id": "tekla-sound-extended-anatomy",
+      "brand": "TEKLA SOUND",
+      "stage": "extended_brand_anatomy",
+      "stage_label": "Stage 2 — Extended Brand Anatomy",
+      "artifact_type": "extended_brand_anatomy",
+      "schema_version": "1.1.0",
+      "report_url": "/brand-reports/tekla-sound-extended-anatomy/report.json",
+      "review_url": "/brand-reports/tekla-sound-extended-anatomy/review.json",
+      "asset_registry_url": "/brand-reports/tekla-sound-extended-anatomy/asset-registry.json",
+      "story_path": "src/stories/brand-reports/generated/tekla-sound-extended-anatomy.stories.jsx",
+      "package_sha256": "8ba04d1a0dd0d74ecb560cc3002824f64f716e03a31fe4bf4d91fa519da2695e"
+    },
+    {
+      "id": "tekla-sound-landing-materials",
+      "brand": "TEKLA SOUND",
+      "stage": "landing_materials",
+      "stage_label": "Stage 3 — Landing Materials",
+      "artifact_type": "landing_materials",
+      "schema_version": "1.1.0",
+      "report_url": "/brand-reports/tekla-sound-landing-materials/report.json",
+      "review_url": "/brand-reports/tekla-sound-landing-materials/review.json",
+      "asset_registry_url": "/brand-reports/tekla-sound-landing-materials/asset-registry.json",
+      "story_path": "src/stories/brand-reports/generated/tekla-sound-landing-materials.stories.jsx",
+      "package_sha256": "e93286ae9cf3f44dc3d3d0398eedaa61d34d6c51a98a75efa6ff74a4287121cb"
+    },
+    {
+      "id": "tekla-source-analysis",
+      "brand": "TEKLA",
+      "stage": "source_brand_analysis",
+      "stage_label": "Stage 1 — Source Brand Analysis",
+      "artifact_type": "source_brand_analysis",
+      "schema_version": "1.2.0",
+      "report_url": "/brand-reports/tekla-source-analysis/report.json",
+      "review_url": "/brand-reports/tekla-source-analysis/review.json",
+      "asset_registry_url": null,
+      "story_path": "src/stories/brand-reports/generated/tekla-source-analysis.stories.jsx",
+      "package_sha256": "2e2982bf2e95928aed5cc3496798c099dd9622a966bacb01882c077b88785546"
+    }
+  ]
 }

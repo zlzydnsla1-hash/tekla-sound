@@ -1,0 +1,2945 @@
+{
+  "schema_version": "1.2.0",
+  "artifact_type": "source_brand_analysis",
+  "generated_at": "2026-08-24T14:32:22+09:00",
+  "brand": {
+    "name": "TEKLA",
+    "entity_scope": "TEKLA (teklafabrics.com), the Copenhagen home-textile masterbrand founded 2017 by Charlie Hedin and Kristoffer Juhl; bedding, bath, sleepwear/clothing, and home categories under one owned e-commerce site and one flagship store.",
+    "markets": [
+      "Global (owned e-commerce, EU/US/UK shipping)",
+      "Denmark (Copenhagen flagship store)"
+    ],
+    "languages": [
+      "English"
+    ],
+    "channels": [
+      "owned web",
+      "flagship retail store",
+      "editorial press"
+    ],
+    "era_start": "2017",
+    "era_end": "2026",
+    "product_mode": "physical"
+  },
+  "report_identity": {
+    "background_color": "#F6F6F6",
+    "foreground_color": "#181818",
+    "color_layer": "identity",
+    "identity_scope": "Verified from the live teklafabrics.com HTML meta theme-color, safari-pinned-tab mask color, and shipped CSS canvas color on 2026-08-24; scope is the current owned-web masterbrand identity only",
+    "logo": {
+      "evidence_id": "EV-101",
+      "local_path": "assets/tekla-mark.svg",
+      "source_url": "https://teklafabrics.com/favicon.svg",
+      "credit": "Tekla",
+      "rights_note": "Copyright Tekla; research reference only, not redistributed as a product asset",
+      "variant": "favicon / app-icon mark (monogram; full wordmark lockup not independently isolated within the rapid window)",
+      "render_treatment": "none"
+    }
+  },
+  "handoff": {
+    "status": "USER_DIRECTION_REQUIRED",
+    "package_version": "1.0.0",
+    "target_direction": null,
+    "approved_grammar_ids": [
+      "GK-01",
+      "GK-02",
+      "GK-03",
+      "GK-04"
+    ],
+    "protected_surface_families": [
+      "TEKLA About-page mission copy (\"built around uniting form and function\", \"an antidote to the bedding available at the time\")",
+      "TEKLA woven product label artwork and typesetting",
+      "TEKLA storefront and product photography assets"
+    ],
+    "unresolved_gaps": [
+      "standalone wordmark lockup file not isolated within the rapid window (only in-situ storefront and label instances observed)",
+      "rendered typography scale (px/line-height) for Display, H1, H2, H3, and Caption roles not measured",
+      "spacing/grid metrics in pixel or rem units not measured",
+      "motion/video, packaging, onboarding, care/repair, and error/recovery imagery not captured"
+    ]
+  },
+  "decision_index": {
+    "strategy": [
+      {
+        "claim_id": "CL-001",
+        "domain": "strategy",
+        "epistemic_status": "Observed",
+        "claim": "Observed: TEKLA positions its products as an antidote to disposable, low-quality bedding, built around uniting form and function",
+        "semantic_function": "Defines the category tension the brand argues against",
+        "evidence_ids": [
+          "EV-001"
+        ],
+        "confidence": "high",
+        "alternative_explanation": "Marketing copy may overstate an actual product-quality differentiation",
+        "scope_or_exception": "Global masterbrand, current era only",
+        "falsifier": "An official statement reframing the brand around trend/fashion positioning instead"
+      }
+    ],
+    "verbal_system": [
+      {
+        "claim_id": "CL-002",
+        "domain": "verbal",
+        "epistemic_status": "Observed",
+        "claim": "Observed: brand copy uses short, declarative, value-led sentences and avoids superlative or trend vocabulary",
+        "semantic_function": "Establishes the voice register",
+        "evidence_ids": [
+          "EV-001",
+          "EV-002"
+        ],
+        "confidence": "high",
+        "alternative_explanation": "Small sample of pages; tone could vary by page type not captured",
+        "scope_or_exception": "Owned-web copy only",
+        "falsifier": "Finding campaign copy that uses superlative or trend language"
+      }
+    ],
+    "identity_and_tokens": [
+      {
+        "claim_id": "CL-003",
+        "domain": "identity",
+        "epistemic_status": "Observed",
+        "claim": "Observed: the identity color pair is #181818 ink on #F6F6F6 canvas, confirmed independently by theme-color meta, mask-icon color, and CSS background",
+        "semantic_function": "Establishes the verified identity color field",
+        "evidence_ids": [
+          "EV-003"
+        ],
+        "confidence": "high",
+        "alternative_explanation": "A future site redesign could change these values after this capture date",
+        "scope_or_exception": "Owned web, captured 2026-08-24",
+        "falsifier": "A published brand guideline naming different identity colors"
+      }
+    ],
+    "key_visual": [
+      {
+        "claim_id": "CL-004",
+        "domain": "key visual",
+        "epistemic_status": "Inferred",
+        "claim": "Inferred: the key-visual system is a single centered product against a large plain field, repeated from the homepage hero to the physical storefront window",
+        "semantic_function": "Defines the cross-surface visual premise",
+        "evidence_ids": [
+          "EV-102",
+          "EV-104"
+        ],
+        "confidence": "medium",
+        "alternative_explanation": "Only two surfaces observed; could be coincidental similarity rather than a designed system",
+        "scope_or_exception": "Homepage and flagship store only",
+        "falsifier": "Finding a campaign surface that uses a busy, multi-subject composition as its primary key visual"
+      }
+    ],
+    "brand_mood": [
+      {
+        "claim_id": "CL-005",
+        "domain": "brand mood",
+        "epistemic_status": "Observed",
+        "claim": "Observed: the brand world combines real domestic/architectural settings with natural materials (wood, concrete, branches) rather than constructed fictional sets",
+        "semantic_function": "Defines the reality/fiction and material register of the world",
+        "evidence_ids": [
+          "EV-104",
+          "EV-110"
+        ],
+        "confidence": "medium",
+        "alternative_explanation": "Sample limited to one store-opening feature and one styled still life",
+        "scope_or_exception": "Flagship store and one editorial still life",
+        "falsifier": "Finding brand-produced imagery using an obviously artificial or fantastical set"
+      }
+    ],
+    "product_representation": [
+      {
+        "claim_id": "CL-006",
+        "domain": "product representation",
+        "epistemic_status": "Inferred",
+        "claim": "Inferred: TEKLA separates clinical product/label detail photography from soft lifestyle mood photography, and does not blend the two within one frame",
+        "semantic_function": "Explains the two alternating photographic jobs",
+        "evidence_ids": [
+          "EV-103",
+          "EV-105",
+          "EV-106"
+        ],
+        "confidence": "medium",
+        "alternative_explanation": "Small sample; a blended style may exist elsewhere on-site",
+        "scope_or_exception": "Captured homepage/product imagery only",
+        "falsifier": "Finding one image that mixes macro label detail with an active lifestyle scene"
+      }
+    ],
+    "product_native_language": [
+      {
+        "claim_id": "CL-007",
+        "domain": "product-native language",
+        "epistemic_status": "Observed",
+        "claim": "Observed: a rectangular woven label carrying the all-caps TEKLA wordmark, then product line, then size/spec, recurs identically across bedding, bath, and slipper categories",
+        "semantic_function": "Defines the one constant product-native signal across categories",
+        "evidence_ids": [
+          "EV-105",
+          "EV-106",
+          "EV-108"
+        ],
+        "confidence": "high",
+        "alternative_explanation": "Label format could differ for categories not sampled (e.g. candles)",
+        "scope_or_exception": "Bedding, bath, and slipper categories only",
+        "falsifier": "Finding a product category with a different label hierarchy or no label"
+      }
+    ],
+    "system_and_other": [
+      {
+        "claim_id": "CL-008",
+        "domain": "system",
+        "epistemic_status": "Inferred",
+        "claim": "Inferred: the same #181818 dark value functions as the one constant linking digital chrome, physical signage, and woven labels, standing in for a shared typeface across physical and digital surfaces",
+        "semantic_function": "Ties the digital and physical identity together through color rather than confirmed shared typography",
+        "evidence_ids": [
+          "EV-003",
+          "EV-104",
+          "EV-105",
+          "EV-106",
+          "EV-108"
+        ],
+        "confidence": "medium",
+        "alternative_explanation": "The in-situ wordmark could in fact use Unica77 Bold; this was not confirmed against a type sample",
+        "scope_or_exception": "Global masterbrand, current era",
+        "falsifier": "Confirming the storefront/label wordmark is set in a specific, sourced typeface file"
+      }
+    ]
+  },
+  "analysis_layers": {
+    "source_synthesis": {
+      "title": "Executive source synthesis",
+      "topics": [
+        {
+          "title": "Source positioning",
+          "notes": [
+            "Observed: TEKLA positions itself as a considered, materials-first home-textile brand built to correct what it calls thin, undifferentiated bedding — \"Tekla was built around uniting form and function\" and was \"created as an antidote to the bedding available at the time\" (EV-001)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-001"
+          ]
+        },
+        {
+          "title": "Core causal model",
+          "notes": [
+            "Inferred: a restrained visual system (near-black wordmark on a warm off-white field, EV-003) plus centered, negative-space-heavy product photography (EV-102) plus explicit longevity language (EV-001) work together to argue that the product is worth a premium because it will last, not because it is decorated (EV-001, EV-102)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-001",
+            "EV-003",
+            "EV-102"
+          ]
+        },
+        {
+          "title": "Contrasting qualities that stay together",
+          "notes": [
+            "Observed: a domestic, lived-in warmth (wood, kilim rugs, cherry blossom branches, EV-104) is kept next to an almost clinical product-detail register (macro label crops, flat-lay stacks, EV-105, EV-106) — softness in the world, precision in the proof."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-104",
+            "EV-105",
+            "EV-106"
+          ]
+        },
+        {
+          "title": "What this analysis does not claim",
+          "notes": [
+            "This package makes no claim about TEKLA's internal design system files, its full logo guideline set, unpublished pricing, or any category TEKLA has not itself entered. No target brand, transfer, or fictional name is present anywhere in this file."
+          ],
+          "tables": [],
+          "evidence_ids": []
+        }
+      ],
+      "evidence_ids": [
+        "EV-001",
+        "EV-003",
+        "EV-102",
+        "EV-104",
+        "EV-105",
+        "EV-106"
+      ]
+    },
+    "evidence_and_authorship": {
+      "title": "Evidence, strata, and authorship",
+      "topics": [
+        {
+          "title": "Source-tier and channel coverage",
+          "notes": [
+            "Observed: primary evidence is the live teklafabrics.com homepage and About page copy (EV-001, EV-002) plus a direct capture of the shipped CSS/meta bundle (EV-003); secondary evidence is three press features (Wallpaper*, Scandinavia Standard, Forbes; EV-004, EV-005, EV-006) used only for corroborating, attributed description."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-001",
+            "EV-002",
+            "EV-003",
+            "EV-004",
+            "EV-005",
+            "EV-006"
+          ]
+        },
+        {
+          "title": "Era, region, product-line, campaign, and collaborator strata",
+          "notes": [
+            "Observed: all evidence is dated 2020–2026 and reflects the current global masterbrand; no collaborator or guest-collection material was collected, matching the brief's exclusions."
+          ],
+          "tables": [],
+          "evidence_ids": []
+        },
+        {
+          "title": "Visual corpus and contact sheets",
+          "notes": [
+            "Observed: 10 direct local visuals span identity (EV-101), key visual (EV-102), photography (EV-103, EV-110), brand mood (EV-104), product representation (EV-105, EV-106, EV-109), and product-native language (EV-107, EV-108); contact sheets are in `contact-sheets/`."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-101",
+            "EV-102",
+            "EV-103",
+            "EV-104",
+            "EV-105",
+            "EV-106",
+            "EV-107",
+            "EV-108",
+            "EV-109",
+            "EV-110"
+          ]
+        },
+        {
+          "title": "Biases, contradictions, and gaps",
+          "notes": [
+            "Observed gap: the rapid window did not isolate a clean, standalone wordmark lockup file — the favicon/app-icon mark (EV-101) is the only official standalone identity asset captured, while the fuller \"TEKLA\" wordmark is only observed in situ on the storefront (EV-104) and on woven product labels (EV-105, EV-106, EV-108). This is recorded as an unresolved gap, not inferred into a fabricated logo file."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-101",
+            "EV-104",
+            "EV-105",
+            "EV-106",
+            "EV-108"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "EV-001",
+        "EV-002",
+        "EV-003",
+        "EV-004",
+        "EV-005",
+        "EV-006",
+        "EV-101",
+        "EV-102",
+        "EV-103",
+        "EV-104",
+        "EV-105",
+        "EV-106",
+        "EV-107",
+        "EV-108",
+        "EV-109",
+        "EV-110"
+      ]
+    },
+    "strategy": {
+      "title": "Strategic and cultural anatomy",
+      "topics": [
+        {
+          "title": "Category definition",
+          "notes": [
+            "Observed: TEKLA frames its category as everyday home textiles — bedding, bath, sleepwear, and home accessories — rather than luxury linen or interior design (EV-001, EV-002)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-001",
+            "EV-002"
+          ]
+        },
+        {
+          "title": "Audience identity, situation, and anxieties",
+          "notes": [
+            "Inferred: the brand addresses a buyer who already owns adequate bedding but is dissatisfied with its quality or design, since the founding narrative is explicitly framed against \"the bedding available at the time\" (EV-001, EV-005)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-001",
+            "EV-005"
+          ]
+        },
+        {
+          "title": "Tension or enemy",
+          "notes": [
+            "Observed: the named tension is rapid trend cycles and disposable home goods — TEKLA states it \"rejects rapid trend cycles, designing for longevity\" and that growth should not mean encouraging existing customers \"to consume more than they need\" (EV-001)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-001"
+          ]
+        },
+        {
+          "title": "Functional, emotional, and social promise",
+          "notes": [
+            "Observed: functionally, \"pieces are designed to be lived in and made to last\"; emotionally, the promise is calm domestic comfort signalled by soft-focus lifestyle imagery (EV-001, EV-103)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-001",
+            "EV-103"
+          ]
+        },
+        {
+          "title": "Reasons to believe",
+          "notes": [
+            "Observed: B Corp certification, named production-partner collaboration, and \"uncompromising quality\" language are offered as proof points for the durability claim (EV-001)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-001"
+          ]
+        },
+        {
+          "title": "Competitive and cultural posture",
+          "notes": [
+            "Inferred: press coverage repeatedly places TEKLA against European modernist reference points — Alvar Aalto, Mies van der Rohe, Axel Vervoordt — positioning it culturally nearer architecture and design culture than fashion or bedding retail (EV-004, EV-006)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-004",
+            "EV-006"
+          ]
+        },
+        {
+          "title": "Portfolio, endorsement, and authorship logic",
+          "notes": [
+            "Observed: all captured evidence is first-party masterbrand material; no sub-brand, endorsement, or collaborator authorship structure was found within the rapid window (EV-001, EV-002)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-001",
+            "EV-002"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "EV-001",
+        "EV-002",
+        "EV-004",
+        "EV-005",
+        "EV-006",
+        "EV-103"
+      ]
+    },
+    "verbal_system": {
+      "title": "Verbal anatomy",
+      "topics": [
+        {
+          "title": "Lexicon and semantic territories",
+          "notes": [
+            "Observed: recurring vocabulary centers on \"quality,\" \"longevity,\" \"lived in,\" \"made to last,\" and \"form and function\" rather than luxury, trend, or fashion vocabulary (EV-001)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-001"
+          ]
+        },
+        {
+          "title": "Syntax, rhetoric, cadence, and emotional temperature",
+          "notes": [
+            "Observed: sentences are short, declarative, and value-led (\"We make a case for quality, design and longevity across our entire value chain\"), avoiding superlatives (EV-001)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-001"
+          ]
+        },
+        {
+          "title": "Message hierarchy",
+          "notes": [
+            "Observed: mission and values statements lead the About page; product and collection promotion follows on the homepage (EV-001, EV-002)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-001",
+            "EV-002"
+          ]
+        },
+        {
+          "title": "Naming behavior",
+          "notes": [
+            "Observed: product names combine a material/construction term with a place or pattern name, e.g. \"Core Down Duvet,\" \"Percale Pillow Sham Douglas Checks,\" \"Terry Classic Bathrobe Marseille\" (EV-106, EV-107, EV-109)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-106",
+            "EV-107",
+            "EV-109"
+          ]
+        },
+        {
+          "title": "Campaign, product, UI, transactional, support, and error modulation",
+          "notes": [
+            "Observed: homepage promotional copy stays close to plain description (\"Discover sleepwear in refreshed colours,\" \"Fresh cotton bedding\") rather than campaign-style copywriting (EV-002)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-002"
+          ]
+        },
+        {
+          "title": "Verbal exceptions and proprietary language",
+          "notes": [
+            "Observed: \"B Corp\" and value-chain/ESG language are used precisely rather than loosely, consistent with a certification claim (EV-001)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-001"
+          ]
+        },
+        {
+          "title": "Verbal brand hierarchy",
+          "notes": [
+            "> Synthesize only evidence already collected in strategy and verbal sections. Use `gap` when a level is not explicitly supported; do not extend research to fill it."
+          ],
+          "tables": [
+            {
+              "columns": [
+                "Tier",
+                "Element",
+                "Name",
+                "Statement",
+                "Epistemic status",
+                "Evidence and scope"
+              ],
+              "rows": [
+                {
+                  "Tier": "Foundation",
+                  "Element": "Brand purpose",
+                  "Name": "",
+                  "Statement": "To make honestly made, long-lasting home textiles that replace disposable bedding habits.",
+                  "Epistemic status": "inferred",
+                  "Evidence and scope": "Synthesized from EV-001's antidote/longevity framing; masterbrand scope only"
+                },
+                {
+                  "Tier": "Foundation",
+                  "Element": "Brand essence",
+                  "Name": "",
+                  "Statement": "Considered domestic longevity.",
+                  "Epistemic status": "inferred",
+                  "Evidence and scope": "Synthesized from EV-001 and EV-004 modernist/longevity framing"
+                },
+                {
+                  "Tier": "Strategy",
+                  "Element": "Positioning",
+                  "Name": "",
+                  "Statement": "The quality-and-design alternative to disposable, trend-driven home textiles.",
+                  "Epistemic status": "inferred",
+                  "Evidence and scope": "EV-001, EV-005; global owned-web scope"
+                },
+                {
+                  "Tier": "Strategy",
+                  "Element": "Brand promise",
+                  "Name": "",
+                  "Statement": "Pieces designed to be lived in and made to last.",
+                  "Epistemic status": "observed",
+                  "Evidence and scope": "EV-001 direct quote; masterbrand scope"
+                },
+                {
+                  "Tier": "Core verbal platform",
+                  "Element": "Core brand value",
+                  "Name": "Quality",
+                  "Statement": "Uncompromising quality through close production-partner collaboration.",
+                  "Epistemic status": "observed",
+                  "Evidence and scope": "EV-001 direct quote"
+                },
+                {
+                  "Tier": "Core verbal platform",
+                  "Element": "Core brand value",
+                  "Name": "Longevity over trend",
+                  "Statement": "Designing for longevity and rejecting rapid trend cycles.",
+                  "Epistemic status": "observed",
+                  "Evidence and scope": "EV-001 direct quote"
+                },
+                {
+                  "Tier": "Core verbal platform",
+                  "Element": "Brand message",
+                  "Name": "",
+                  "Statement": "Quality, design, and longevity across the entire value chain.",
+                  "Epistemic status": "observed",
+                  "Evidence and scope": "EV-001 direct quote"
+                },
+                {
+                  "Tier": "Expression",
+                  "Element": "Voice principles",
+                  "Name": "",
+                  "Statement": "Short, declarative, value-led sentences without superlative or trend language.",
+                  "Epistemic status": "observed",
+                  "Evidence and scope": "EV-001, EV-002"
+                },
+                {
+                  "Tier": "Activation",
+                  "Element": "Proof and activation",
+                  "Name": "",
+                  "Statement": "B Corp certification and named production-partner sourcing as reasons to believe.",
+                  "Epistemic status": "observed",
+                  "Evidence and scope": "EV-001"
+                }
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "EV-001",
+            "EV-002",
+            "EV-004",
+            "EV-005"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "EV-001",
+        "EV-002",
+        "EV-004",
+        "EV-005",
+        "EV-106",
+        "EV-107",
+        "EV-109"
+      ]
+    },
+    "identity_and_channel_tokens": {
+      "title": "Identity and channel-token anatomy",
+      "topics": [
+        {
+          "title": "Mark behavior",
+          "notes": [
+            "Observed: the favicon/app-icon mark (EV-101) is a dark mark on a light field, matching the site's `#181818` theme-color and mask-icon color (EV-003); the fuller \"TEKLA\" wordmark is set in a bold, tightly tracked, geometric all-caps sans-serif wherever observed in situ — storefront signage (EV-104) and woven product labels (EV-105, EV-106, EV-108)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-003",
+            "EV-101",
+            "EV-104",
+            "EV-105",
+            "EV-106",
+            "EV-108"
+          ]
+        },
+        {
+          "title": "Typography roles and relationships",
+          "notes": [
+            "Observed: the live site self-hosts one family, Unica77, in Regular (400), Light (300), and Light Italic weights, applied via `--font-unica77` with a `ui-sans-serif, system-ui, sans-serif` fallback stack (EV-003)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-003"
+          ]
+        },
+        {
+          "title": "Color roles, value structure, concentrated accent use, and image relationship",
+          "notes": [
+            "Observed: the page canvas resolves to `#F6F6F6` and the persistent ink/active/border color resolves to `#181818` across the shipped CSS, the `theme-color` meta tag, and the `safari-pinned-tab` mask-icon color — three independent confirmations of the same identity pair (EV-003)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-003"
+          ]
+        },
+        {
+          "title": "Spacing, grid, containers, density, and responsive behavior",
+          "notes": [
+            "Observed gap: layout/grid metrics were not measured within the rapid window; recorded as an unresolved gap rather than invented."
+          ],
+          "tables": [],
+          "evidence_ids": []
+        },
+        {
+          "title": "Shape, surface, depth, icon, illustration, and motion primitives",
+          "notes": [
+            "Observed: no illustration or iconography system beyond the single monogram mark was found; product labels use plain rectangular woven tags (EV-105, EV-106, EV-108)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-105",
+            "EV-106",
+            "EV-108"
+          ]
+        },
+        {
+          "title": "Owned-digital implementation versus cross-channel invariants",
+          "notes": [
+            "Observed: the `#181818` / `#F6F6F6` pairing and the black wordmark recur identically across the owned site chrome (EV-003) and the physical storefront/product labels (EV-104, EV-105, EV-106, EV-108), so it is treated as a cross-channel invariant rather than a digital-only convention."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-003",
+            "EV-104",
+            "EV-105",
+            "EV-106",
+            "EV-108"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "EV-003",
+        "EV-101",
+        "EV-104",
+        "EV-105",
+        "EV-106",
+        "EV-108"
+      ]
+    },
+    "key_visual_system": {
+      "title": "Key-visual system",
+      "topics": [
+        {
+          "title": "Cross-surface visual operating model",
+          "notes": [],
+          "tables": [
+            {
+              "columns": [
+                "Field",
+                "Observed relationship",
+                "Invariant",
+                "Variable / exception",
+                "Evidence IDs"
+              ],
+              "rows": [
+                {
+                  "Field": "Core visual premise",
+                  "Observed relationship": "A single, undecorated bed or product sits centered against a plain, textured wall or backdrop with generous negative space",
+                  "Invariant": "Centered subject, large surrounding void",
+                  "Variable / exception": "Backdrop color shifts with room/set (taupe plaster vs. seamless studio)",
+                  "Evidence IDs": "EV-102, EV-109"
+                },
+                {
+                  "Field": "Semantic focal actor",
+                  "Observed relationship": "The product itself (duvet, robe) rather than a lifestyle scene carries the frame",
+                  "Invariant": "One product family per frame",
+                  "Variable / exception": "A human wearer appears only in fit/in-use shots, not in the primary key visual",
+                  "Evidence IDs": "EV-102, EV-109"
+                },
+                {
+                  "Field": "Typography-message-image relationship",
+                  "Observed relationship": "Minimal on-image type; the wordmark appears physically on labels/signage rather than as overlay text",
+                  "Invariant": "No headline overlay observed on product imagery",
+                  "Variable / exception": "Wordmark appears as physical signage in world photography (EV-104)",
+                  "Evidence IDs": "EV-102, EV-104"
+                },
+                {
+                  "Field": "Identity / interaction / campaign / photographic color roles",
+                  "Observed relationship": "Identity ink `#181818` on canvas `#F6F6F6` stays separate from photographic palette (sage, cornflower blue, rust stripe)",
+                  "Invariant": "Identity pair fixed",
+                  "Variable / exception": "Campaign/product color varies by season and collection",
+                  "Evidence IDs": "EV-003, EV-102, EV-109"
+                },
+                {
+                  "Field": "Shape, graphic device, layering, and material logic",
+                  "Observed relationship": "Rectangular woven labels are the one repeated graphic device across products",
+                  "Invariant": "Rectangular label, wordmark in caps",
+                  "Variable / exception": "Label color varies (cream on towel, white on duvet)",
+                  "Evidence IDs": "EV-105, EV-106, EV-108"
+                },
+                {
+                  "Field": "Grid, scale, spacing, and composition",
+                  "Observed relationship": "Symmetrical, front-on framing with the product filling roughly half the frame height",
+                  "Invariant": "Symmetry and centering",
+                  "Variable / exception": "Off-center still-life framing used for secondary/editorial shots",
+                  "Evidence IDs": "EV-102, EV-110"
+                },
+                {
+                  "Field": "UI and component translation",
+                  "Observed relationship": "Observed gap: on-site component/grid translation was not measured within the rapid window",
+                  "Invariant": "—",
+                  "Variable / exception": "—",
+                  "Evidence IDs": "—"
+                },
+                {
+                  "Field": "Content and editorial template translation",
+                  "Observed relationship": "Press features reuse the same centered, materials-led description register as the brand's own copy",
+                  "Invariant": "Calm, factual description",
+                  "Variable / exception": "Editorial voice adds architectural reference points the brand copy does not use",
+                  "Evidence IDs": "EV-004, EV-006"
+                },
+                {
+                  "Field": "Photography and product-imagery role",
+                  "Observed relationship": "Photography alternates between clinical product/label detail and soft lifestyle mood, never blending the two in one frame",
+                  "Invariant": "One job per image",
+                  "Variable / exception": "Styled still-life (EV-110) sits between the two registers",
+                  "Evidence IDs": "EV-102, EV-103, EV-105, EV-106, EV-110"
+                },
+                {
+                  "Field": "Motion behavior",
+                  "Observed relationship": "Observed gap: no motion/video asset was captured within the rapid window",
+                  "Invariant": "—",
+                  "Variable / exception": "—",
+                  "Evidence IDs": "—"
+                },
+                {
+                  "Field": "Channel adaptation",
+                  "Observed relationship": "The same centered, negative-space key-visual logic recurs from the homepage hero image to the physical storefront window",
+                  "Invariant": "Centering and restraint",
+                  "Variable / exception": "Store window adds live props (branches, robes) not present on-site",
+                  "Evidence IDs": "EV-102, EV-104"
+                }
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "EV-003",
+            "EV-004",
+            "EV-006",
+            "EV-102",
+            "EV-103",
+            "EV-104",
+            "EV-105",
+            "EV-106",
+            "EV-108",
+            "EV-109",
+            "EV-110"
+          ]
+        },
+        {
+          "title": "Cross-surface evidence map",
+          "notes": [],
+          "tables": [
+            {
+              "columns": [
+                "Surface",
+                "Application",
+                "What remains from the operating model",
+                "Evidence ID",
+                "Scope / exception"
+              ],
+              "rows": [
+                {
+                  "Surface": "Identity",
+                  "Application": "Favicon/app-icon mark and theme-color",
+                  "What remains from the operating model": "Dark-on-light identity pairing",
+                  "Evidence ID": "EV-101",
+                  "Scope / exception": "Standalone wordmark lockup not isolated in this window"
+                },
+                {
+                  "Surface": "UI / component",
+                  "Application": "Site canvas and ink color applied to CSS",
+                  "What remains from the operating model": "`#181818` on `#F6F6F6`",
+                  "Evidence ID": "EV-003",
+                  "Scope / exception": "Owned web only"
+                },
+                {
+                  "Surface": "Content / campaign",
+                  "Application": "Homepage hero product image",
+                  "What remains from the operating model": "Centered, negative-space composition",
+                  "Evidence ID": "EV-102",
+                  "Scope / exception": "Homepage placement only"
+                },
+                {
+                  "Surface": "Imagery",
+                  "Application": "Lifestyle sleepwear portrait",
+                  "What remains from the operating model": "Low-key, undemonstrative mood",
+                  "Evidence ID": "EV-103",
+                  "Scope / exception": "Editorial/campaign imagery, not product-detail imagery"
+                },
+                {
+                  "Surface": "Motion",
+                  "Application": "Not captured",
+                  "What remains from the operating model": "—",
+                  "Evidence ID": "—",
+                  "Scope / exception": "Unresolved gap"
+                },
+                {
+                  "Surface": "Additional channel",
+                  "Application": "Flagship storefront window",
+                  "What remains from the operating model": "Wordmark on light wood, symmetrical framing",
+                  "Evidence ID": "EV-104",
+                  "Scope / exception": "Copenhagen flagship only"
+                }
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "EV-003",
+            "EV-101",
+            "EV-102",
+            "EV-103",
+            "EV-104"
+          ]
+        },
+        {
+          "title": "Typography, color, form, layout, and material relationship",
+          "notes": [
+            "Observed: the same `#181818` ink recurs as digital text/UI color (EV-003), physical wordmark ink (EV-104), and woven label ink (EV-105, EV-106, EV-108), tying digital and physical identity together through one consistent dark value rather than through a shared typeface file, since the storefront/label wordmark weight was not confirmed to be Unica77 itself."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-003",
+            "EV-104",
+            "EV-105",
+            "EV-106",
+            "EV-108"
+          ]
+        },
+        {
+          "title": "UI, content-template, imagery, and motion translation",
+          "notes": [
+            "Observed gap: UI component and motion translation were not measured within the rapid window."
+          ],
+          "tables": [],
+          "evidence_ids": []
+        },
+        {
+          "title": "Masterbrand versus campaign/collaborator/season authorship",
+          "notes": [
+            "Observed: every captured surface (site, store, product label) carries the same masterbrand wordmark with no collaborator or seasonal sub-mark observed (EV-101, EV-104, EV-105, EV-106, EV-108)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-101",
+            "EV-104",
+            "EV-105",
+            "EV-106",
+            "EV-108"
+          ]
+        },
+        {
+          "title": "Invariants, variables, and prohibited generalizations",
+          "notes": [
+            "Invariant: the `#181818` / `#F6F6F6` identity pair and centered, negative-space product framing. Variable: photographic palette by product line and season. Prohibited generalization: treating any single product's campaign color (e.g. sage duvet, cornflower robe) as a masterbrand identity color."
+          ],
+          "tables": [],
+          "evidence_ids": []
+        }
+      ],
+      "evidence_ids": [
+        "EV-003",
+        "EV-004",
+        "EV-006",
+        "EV-101",
+        "EV-102",
+        "EV-103",
+        "EV-104",
+        "EV-105",
+        "EV-106",
+        "EV-108",
+        "EV-109",
+        "EV-110"
+      ]
+    },
+    "brand_mood_and_world": {
+      "title": "Brand mood and world",
+      "topics": [
+        {
+          "title": "Cultural and emotional register",
+          "notes": [
+            "Observed: calm, undecorated, materially confident — closer to architecture/design editorial than fashion campaign register (EV-004, EV-006)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-004",
+            "EV-006"
+          ]
+        },
+        {
+          "title": "Reality versus fiction",
+          "notes": [
+            "Observed: settings are real, existing spaces (the actual Egmont Building flagship, plain studio interiors) rather than constructed fictional sets (EV-104)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-104"
+          ]
+        },
+        {
+          "title": "Settings, environments, material imagination, and sensory register",
+          "notes": [
+            "Observed: natural materials recur — wood counters, concrete floors, cherry-blossom branches, kilim rugs, birch bentwood furniture (EV-104, EV-110)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-104",
+            "EV-110"
+          ]
+        },
+        {
+          "title": "Human role and social distance",
+          "notes": [
+            "Observed: when people appear, they are shown at a private, undemonstrative distance (seated, gaze averted, or a plain frontal fit portrait) rather than in an active social scene (EV-103, EV-109)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-103",
+            "EV-109"
+          ]
+        },
+        {
+          "title": "Production causes that create the mood",
+          "notes": [
+            "Inferred: soft, low-contrast lighting and restrained color grading (EV-103, EV-110) combined with real, un-styled-looking rooms (EV-104) are the two production choices that build the \"serene\" register press coverage names (EV-004)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-004",
+            "EV-103",
+            "EV-104",
+            "EV-110"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "EV-004",
+        "EV-006",
+        "EV-103",
+        "EV-104",
+        "EV-109",
+        "EV-110"
+      ]
+    },
+    "photography_and_film": {
+      "title": "Photography and film language",
+      "topics": [
+        {
+          "title": "Subjects, casting, gaze, gesture, wardrobe, and styling",
+          "notes": [
+            "Observed: single models in TEKLA sleepwear/robes, gaze often averted or neutral rather than smiling at camera (EV-103, EV-109)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-103",
+            "EV-109"
+          ]
+        },
+        {
+          "title": "Location, set, props, and environmental realism",
+          "notes": [
+            "Observed: real domestic-scale interiors and one vintage furniture prop (birch bentwood trolley) rather than an abstract studio cyclorama in every shot (EV-104, EV-110)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-104",
+            "EV-110"
+          ]
+        },
+        {
+          "title": "Framing, camera distance/height, perspective, and lens character",
+          "notes": [
+            "Observed: a consistent alternation between frontal eye-level portraits/product shots (EV-102, EV-109) and top-down or macro detail crops (EV-105, EV-106, EV-107, EV-108)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-102",
+            "EV-105",
+            "EV-106",
+            "EV-107",
+            "EV-108",
+            "EV-109"
+          ]
+        },
+        {
+          "title": "Light, exposure, reflection, shadow, palette, and time",
+          "notes": [
+            "Observed: two lighting registers are used — soft even studio light for product/detail images, and low-key directional window light for lifestyle portraiture (EV-103 vs. EV-106)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-103",
+            "EV-106"
+          ]
+        },
+        {
+          "title": "Texture, imperfection, retouching, compositing, and typography in image",
+          "notes": [
+            "Observed: fabric creasing and natural texture are kept visible rather than fully smoothed in detail crops (EV-106, EV-107)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-106",
+            "EV-107"
+          ]
+        },
+        {
+          "title": "Motion, cuts, transitions, loops, and sound",
+          "notes": [
+            "Observed gap: no motion/video asset was captured within the rapid window."
+          ],
+          "tables": [],
+          "evidence_ids": []
+        },
+        {
+          "title": "Channel variants and exceptions",
+          "notes": [
+            "Observed: press-sourced imagery (store opening) uses documentary framing rather than the brand's own controlled studio setup (EV-104)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-104"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "EV-102",
+        "EV-103",
+        "EV-104",
+        "EV-105",
+        "EV-106",
+        "EV-107",
+        "EV-108",
+        "EV-109",
+        "EV-110"
+      ]
+    },
+    "product_representation": {
+      "title": "Product representation",
+      "topics": [
+        {
+          "title": "Physical-product photography and neutral views",
+          "notes": [
+            "Observed: duvets and towels are shown both as full, centered hero objects (EV-102) and as isolated flat-lay/macro crops (EV-105, EV-106)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-102",
+            "EV-105",
+            "EV-106"
+          ]
+        },
+        {
+          "title": "Digital-product mockups, screenshots, and screen recordings",
+          "notes": [
+            "Not applicable: TEKLA's product line is physical home textiles; no digital-product surface was found (product_mode: physical)."
+          ],
+          "tables": [],
+          "evidence_ids": []
+        },
+        {
+          "title": "Family views, detail, scale, and material fidelity",
+          "notes": [
+            "Observed: the towel stack image shows one product across its full size range with the same label repeated at every size (EV-105)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-105"
+          ]
+        },
+        {
+          "title": "Product in use and human relationship",
+          "notes": [
+            "Observed: the bathrobe is shown worn, front-on, hands in pockets, to demonstrate fit and drape (EV-109)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-109"
+          ]
+        },
+        {
+          "title": "Operation, performance, and factual demonstration",
+          "notes": [
+            "Observed: care/size information is shown directly on the woven label within the product photography itself rather than as separate overlay text (EV-106)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-106"
+          ]
+        },
+        {
+          "title": "Packaging, onboarding, care, support, failure, and recovery representation",
+          "notes": [
+            "Observed gap: packaging, onboarding, and support imagery were not captured within the rapid window."
+          ],
+          "tables": [],
+          "evidence_ids": []
+        },
+        {
+          "title": "Camera, device frame, capture, retouching, compositing, and channel limits",
+          "notes": [
+            "Observed: all captured product imagery is straight photography with light retouching; no 3D render or device-frame mockup was found (EV-105, EV-106, EV-107, EV-108, EV-109)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-105",
+            "EV-106",
+            "EV-107",
+            "EV-108",
+            "EV-109"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "EV-102",
+        "EV-105",
+        "EV-106",
+        "EV-107",
+        "EV-108",
+        "EV-109"
+      ]
+    },
+    "product_native_visual_and_cognitive_language": {
+      "title": "Product-native visual and cognitive language",
+      "topics": [
+        {
+          "title": "Shared product model: category archetype or mental model",
+          "notes": [
+            "Observed: TEKLA's products read as functional textile staples (a duvet, a towel, a robe, a slipper) rather than as decorative objects — construction and material are foregrounded over ornament (EV-106, EV-107, EV-108)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-106",
+            "EV-107",
+            "EV-108"
+          ]
+        },
+        {
+          "title": "Shared hierarchy, structure, boundaries, controls, states, and feedback",
+          "notes": [
+            "Not applicable in a UI sense; the physical equivalent is the woven label, which consistently carries brand name, then product line, then size/spec, in that order (EV-106)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-106"
+          ]
+        },
+        {
+          "title": "Physical branch: silhouette, proportion, geometry, CMF, seams, joints, and movement",
+          "notes": [
+            "Observed: channel-quilted duvet construction, ribbed piping on sleepwear and robes, and pile shearling on slippers are all shown as legible, close-up construction details rather than hidden (EV-106, EV-107, EV-108)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-106",
+            "EV-107",
+            "EV-108"
+          ]
+        },
+        {
+          "title": "Physical branch: care, storage, repair, wear, and failure",
+          "notes": [
+            "Observed gap: care, storage, and repair imagery were not captured within the rapid window."
+          ],
+          "tables": [],
+          "evidence_ids": []
+        },
+        {
+          "title": "Digital branch: information architecture, navigation, and screen anatomy",
+          "notes": [
+            "Not applicable: physical product mode."
+          ],
+          "tables": [],
+          "evidence_ids": []
+        },
+        {
+          "title": "Digital branch: component geometry, density, content framing, and state model",
+          "notes": [
+            "Not applicable: physical product mode."
+          ],
+          "tables": [],
+          "evidence_ids": []
+        },
+        {
+          "title": "Digital branch: motion, feedback, personalization, accessibility, and localization",
+          "notes": [
+            "Not applicable: physical product mode."
+          ],
+          "tables": [],
+          "evidence_ids": []
+        },
+        {
+          "title": "Product-family invariants and controlled variants",
+          "notes": [
+            "Observed: the rectangular woven label with all-caps \"TEKLA\" wordmark is the one constant across every product category captured (bedding, bath, slippers) (EV-105, EV-106, EV-108)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-105",
+            "EV-106",
+            "EV-108"
+          ]
+        },
+        {
+          "title": "Hybrid branch: physical control, digital state, service, and feedback continuity",
+          "notes": [
+            "Not applicable: no hybrid physical/digital product was found within scope."
+          ],
+          "tables": [],
+          "evidence_ids": []
+        },
+        {
+          "title": "Product truth versus photography, mockup, screenshot, and campaign construction",
+          "notes": [
+            "Observed: detail crops (EV-106, EV-107, EV-108) show real, unretouched construction rather than an idealized render, which the analysis treats as the more reliable product-truth evidence relative to the styled key visual (EV-102)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-102",
+            "EV-106",
+            "EV-107",
+            "EV-108"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "EV-102",
+        "EV-105",
+        "EV-106",
+        "EV-107",
+        "EV-108"
+      ]
+    },
+    "composition_and_cross_channel_grammar": {
+      "title": "Composition and cross-channel grammar",
+      "topics": [
+        {
+          "title": "Grid, anchoring, grouping, density, and whitespace",
+          "notes": [
+            "Observed: centered anchoring with wide negative space recurs across the key visual, the storefront window, and the styled still life (EV-102, EV-104, EV-110)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-102",
+            "EV-104",
+            "EV-110"
+          ]
+        },
+        {
+          "title": "Scale, crop, overlap, repetition, and interruption",
+          "notes": [
+            "Observed: product-detail images use tight, non-overlapping macro crops (EV-106, EV-107), while world/lifestyle images allow layered depth and prop overlap (EV-110)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-106",
+            "EV-107",
+            "EV-110"
+          ]
+        },
+        {
+          "title": "Relationships among type, image, object, product, and space",
+          "notes": [
+            "Observed: type appears physically in-frame (signage, labels) rather than as a graphic overlay layer in every captured image (EV-104, EV-105, EV-106, EV-108)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-104",
+            "EV-105",
+            "EV-106",
+            "EV-108"
+          ]
+        },
+        {
+          "title": "Responsive and format adaptation",
+          "notes": [
+            "Observed gap: responsive/format adaptation was not measured within the rapid window."
+          ],
+          "tables": [],
+          "evidence_ids": []
+        }
+      ],
+      "evidence_ids": [
+        "EV-102",
+        "EV-104",
+        "EV-105",
+        "EV-106",
+        "EV-107",
+        "EV-108",
+        "EV-110"
+      ]
+    },
+    "product_interface_and_service_behavior": {
+      "title": "Product, interface, and service behavior",
+      "topics": [
+        {
+          "title": "Information architecture and disclosure rhythm",
+          "notes": [
+            "Observed: the homepage groups by category (Bed, Bath, Clothing, Home, Gift Shop) with collection and bestseller cross-links, and offers a 10%-off newsletter incentive (EV-002)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-002"
+          ]
+        },
+        {
+          "title": "Defaults, permissions, guidance, tempo, and feedback",
+          "notes": [
+            "Observed: the site exposes size guides, care information, and a store locator as standing utility links alongside product navigation (EV-002)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-002"
+          ]
+        },
+        {
+          "title": "Error, recovery, and service escalation",
+          "notes": [
+            "Observed gap: error and recovery states were not captured within the rapid window."
+          ],
+          "tables": [],
+          "evidence_ids": []
+        },
+        {
+          "title": "Product ceremony, onboarding, use, care, repair, and post-purchase",
+          "notes": [
+            "Observed: care/spec information is delivered on the physical woven label itself (EV-106) rather than only through a digital care guide, consistent with the brand's \"designed to be lived in\" language (EV-001)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-001",
+            "EV-106"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "EV-001",
+        "EV-002",
+        "EV-106"
+      ]
+    },
+    "system_synthesis": {
+      "title": "System synthesis",
+      "topics": [
+        {
+          "title": "Approved grammar candidates",
+          "notes": [
+            "See `grammar-kernel.md` for GK-01 through GK-04."
+          ],
+          "tables": [],
+          "evidence_ids": []
+        },
+        {
+          "title": "Contrasting qualities that stay together",
+          "notes": [
+            "Inferred: domestic warmth (wood, branches, kilim) and clinical product proof (macro label crops) are kept as two distinct, alternating registers rather than blended into one image (EV-104, EV-106)."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-104",
+            "EV-106"
+          ]
+        },
+        {
+          "title": "Source expressions not to copy directly",
+          "notes": [
+            "Protected: the exact \"Tekla was built around uniting form and function\" and \"an antidote to the bedding available at the time\" sentences (EV-001) are TEKLA's own copyrighted language and must not be reused verbatim outside this research context."
+          ],
+          "tables": [],
+          "evidence_ids": [
+            "EV-001"
+          ]
+        },
+        {
+          "title": "Scope exceptions and falsification conditions",
+          "notes": [
+            "This system synthesis applies only to the current (2017–2026) global masterbrand; it would be falsified by finding an official brand-guideline PDF that assigns a different identity color pair than `#181818`/`#F6F6F6`, or a confirmed wordmark typeface differing from the in-situ observations above."
+          ],
+          "tables": [],
+          "evidence_ids": []
+        }
+      ],
+      "evidence_ids": [
+        "EV-001",
+        "EV-104",
+        "EV-106"
+      ]
+    },
+    "global_brand_system": {
+      "title": "Global brand-system framework",
+      "topics": [
+        {
+          "title": "Overview",
+          "notes": [
+            "> This section describes source-brand operating relationships that remain usable across design systems, platforms, locales, and component libraries. It is not an implementation token specification."
+          ],
+          "tables": [],
+          "evidence_ids": []
+        },
+        {
+          "title": "Brand color scheme",
+          "notes": [
+            "Identity color field:",
+            "Interaction and status color references:",
+            "Product, campaign, and photographic color boundaries:"
+          ],
+          "tables": [
+            {
+              "columns": [
+                "Observed value",
+                "Color layer",
+                "Source role",
+                "Channel / market / date",
+                "Evidence and scope"
+              ],
+              "rows": [
+                {
+                  "Observed value": "#181818",
+                  "Color layer": "Identity",
+                  "Source role": "Wordmark ink / persistent text, active, and border color",
+                  "Channel / market / date": "owned web / Global / 2026-08-24",
+                  "Evidence and scope": "EV-003; theme-color meta, safari-pinned-tab mask color, and CSS text/border color agree"
+                },
+                {
+                  "Observed value": "#F6F6F6",
+                  "Color layer": "Identity",
+                  "Source role": "Page canvas / persistent background field",
+                  "Channel / market / date": "owned web / Global / 2026-08-24",
+                  "Evidence and scope": "EV-003; html background-color and gradient-to value agree"
+                }
+              ]
+            },
+            {
+              "columns": [
+                "Observed value",
+                "Color layer",
+                "Source role",
+                "Channel / market / date",
+                "Evidence and scope"
+              ],
+              "rows": [
+                {
+                  "Observed value": "#007aff",
+                  "Color layer": "Interaction / status",
+                  "Source role": "Third-party carousel component accent (Swiper library default), not a brand-assigned color",
+                  "Channel / market / date": "owned web / Global / 2026-08-24",
+                  "Evidence and scope": "EV-003; appears only inside a vendored UI library variable, not brand CSS"
+                }
+              ]
+            },
+            {
+              "columns": [
+                "Color layer",
+                "Observed value or explicit gap",
+                "Role",
+                "Evidence and scope"
+              ],
+              "rows": [
+                {
+                  "Color layer": "Product / campaign",
+                  "Observed value or explicit gap": "Sage green (duvet), cornflower blue (robe), rust-brown stripe (towel), slate-blue check (pillow sham)",
+                  "Role": "Season/collection-specific product color, not identity color",
+                  "Evidence and scope": "EV-102, EV-105, EV-107, EV-109"
+                },
+                {
+                  "Color layer": "Photography",
+                  "Observed value or explicit gap": "Warm taupe plaster, low-key warm shadow, natural birch",
+                  "Role": "Set/lighting-driven color, not identity or product color",
+                  "Evidence and scope": "EV-102, EV-103, EV-110"
+                }
+              ]
+            },
+            {
+              "columns": [
+                "Role",
+                "Operating relationship",
+                "Invariant",
+                "Variable by channel / locale",
+                "Evidence and limits"
+              ],
+              "rows": [
+                {
+                  "Role": "Identity ink on canvas",
+                  "Operating relationship": "#181818 text/mark sits on #F6F6F6 ground across web chrome, storefront signage, and woven labels",
+                  "Invariant": "The dark-on-light identity pairing itself",
+                  "Variable by channel / locale": "Exact ground material changes (screen pixel vs. painted wood vs. woven cream ribbon)",
+                  "Evidence and limits": "EV-003, EV-104, EV-105, EV-106, EV-108"
+                }
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "EV-003",
+            "EV-102",
+            "EV-103",
+            "EV-104",
+            "EV-105",
+            "EV-106",
+            "EV-107",
+            "EV-108",
+            "EV-109",
+            "EV-110"
+          ]
+        },
+        {
+          "title": "Typography hierarchy",
+          "notes": [
+            "Observed reference values for family and weight are captured directly from the live site's `@font-face` declarations; rendered size, line-height, and letter-spacing were not measured within the rapid window (see gaps below).",
+            "Observed typography specimens:",
+            "Verified webfont artifacts:",
+            "Set `documentation_only: true`. The Storybook report must render a typography-specimen matrix with visibly distinct rows for Display, H1, H2, H3, Body, Label, Caption, and every materially different localized script, or show a visible `webfont-gap`. Display, H1, H2, H3, and Caption rows were not directly observed within the rapid window and must render as `documentation-preview` scale values, not source claims."
+          ],
+          "tables": [
+            {
+              "columns": [
+                "Information role",
+                "Family",
+                "Size",
+                "Weight",
+                "Line height",
+                "Letter spacing",
+                "Script",
+                "Specimen",
+                "Channel / market / date",
+                "Evidence and scope"
+              ],
+              "rows": [
+                {
+                  "Information role": "Body",
+                  "Family": "Unica77",
+                  "Size": "not captured",
+                  "Weight": "400 (Regular)",
+                  "Line height": "not captured",
+                  "Letter spacing": "not captured",
+                  "Script": "Latin",
+                  "Specimen": "\"Fresh cotton bedding\"",
+                  "Channel / market / date": "owned web / Global / 2026-08-24",
+                  "Evidence and scope": "EV-003; family and weight confirmed via @font-face, exact rendered size not measured in rapid window"
+                },
+                {
+                  "Information role": "Label",
+                  "Family": "Unica77",
+                  "Size": "not captured",
+                  "Weight": "300 (Light)",
+                  "Line height": "not captured",
+                  "Letter spacing": "not captured",
+                  "Script": "Latin",
+                  "Specimen": "\"Discover sleepwear in refreshed colours\"",
+                  "Channel / market / date": "owned web / Global / 2026-08-24",
+                  "Evidence and scope": "EV-003; family and weight confirmed via @font-face, exact rendered size not measured in rapid window"
+                }
+              ]
+            },
+            {
+              "columns": [
+                "Family",
+                "Weight / style",
+                "Format",
+                "First-party source URL",
+                "Channel / locale / date",
+                "Fallback and license boundary"
+              ],
+              "rows": [
+                {
+                  "Family": "Unica77",
+                  "Weight / style": "400 / normal",
+                  "Format": "woff2",
+                  "First-party source URL": "https://teklafabrics.com/_next/static/media/regular.d5185f3f.woff2",
+                  "Channel / locale / date": "owned web / Global / 2026-08-24",
+                  "Fallback and license boundary": "Fallback stack: ui-sans-serif, system-ui, sans-serif; self-hosted, licensing terms not published, documentation reference only"
+                },
+                {
+                  "Family": "Unica77",
+                  "Weight / style": "300 / normal",
+                  "Format": "woff2",
+                  "First-party source URL": "https://teklafabrics.com/_next/static/media/light.3c3fe360.woff2",
+                  "Channel / locale / date": "owned web / Global / 2026-08-24",
+                  "Fallback and license boundary": "Same fallback stack; documentation reference only"
+                },
+                {
+                  "Family": "Unica77",
+                  "Weight / style": "300 / italic",
+                  "Format": "woff2",
+                  "First-party source URL": "https://teklafabrics.com/_next/static/media/light-italic.18f108ec.woff2",
+                  "Channel / locale / date": "owned web / Global / 2026-08-24",
+                  "Fallback and license boundary": "Same fallback stack; documentation reference only"
+                }
+              ]
+            },
+            {
+              "columns": [
+                "Information role",
+                "Hierarchy relationship",
+                "Invariant",
+                "Variable by channel / locale",
+                "Evidence and limits"
+              ],
+              "rows": [
+                {
+                  "Information role": "Body / Label",
+                  "Hierarchy relationship": "Both roles share one family (Unica77) at two confirmed weights (400, 300)",
+                  "Invariant": "Single family across confirmed roles",
+                  "Variable by channel / locale": "Exact size/line-height per role not measured",
+                  "Evidence and limits": "EV-003; rendered scale not captured in rapid window"
+                }
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "EV-003"
+          ]
+        },
+        {
+          "title": "Spacing strategy",
+          "notes": [],
+          "tables": [
+            {
+              "columns": [
+                "Spacing role",
+                "Relationship",
+                "Invariant",
+                "Responsive / density variation",
+                "Evidence and limits"
+              ],
+              "rows": [
+                {
+                  "Spacing role": "Product-to-background breathing room",
+                  "Relationship": "The key visual and storefront window both leave roughly half or more of the frame as plain surrounding field around one product",
+                  "Invariant": "Generous negative space around the primary subject",
+                  "Responsive / density variation": "Not measured in pixel/rem terms within the rapid window",
+                  "Evidence and limits": "EV-102, EV-104"
+                }
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "EV-102",
+            "EV-104"
+          ]
+        },
+        {
+          "title": "Layout strategy",
+          "notes": [],
+          "tables": [
+            {
+              "columns": [
+                "Layout role",
+                "Alignment and sequence",
+                "Invariant",
+                "Format variation",
+                "Evidence and limits"
+              ],
+              "rows": [
+                {
+                  "Layout role": "Primary product presentation",
+                  "Alignment and sequence": "Centered, symmetrical framing with the product as the sole subject",
+                  "Invariant": "Centering and single-subject focus",
+                  "Format variation": "Editorial/press imagery allows off-center, layered composition instead",
+                  "Evidence and limits": "EV-102, EV-110"
+                }
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "EV-102",
+            "EV-110"
+          ]
+        },
+        {
+          "title": "Relationship to key visuals, imagery, and product form",
+          "notes": [
+            "The centered, negative-space key-visual logic (section 6) is the same relationship expressed here as a layout invariant; the identity color pair (this section) is the same pairing described by role in section 5. This section restates them as portable relationships rather than introducing new claims."
+          ],
+          "tables": [],
+          "evidence_ids": []
+        },
+        {
+          "title": "What this framework does not prescribe",
+          "notes": [
+            "This framework does not prescribe a grid library, breakpoint set, spacing scale in points/pixels, or component framework; none of that was measured within the rapid research window."
+          ],
+          "tables": [],
+          "evidence_ids": []
+        }
+      ],
+      "evidence_ids": [
+        "EV-003",
+        "EV-102",
+        "EV-103",
+        "EV-104",
+        "EV-105",
+        "EV-106",
+        "EV-107",
+        "EV-108",
+        "EV-109",
+        "EV-110"
+      ]
+    }
+  },
+  "verbal_branding": {
+    "brand_purpose": {
+      "statement": "To make honestly made, long-lasting home textiles that replace disposable bedding habits.",
+      "epistemic_status": "inferred",
+      "evidence_and_scope": "Synthesized from EV-001's antidote/longevity framing; masterbrand scope only",
+      "evidence_ids": [
+        "EV-001"
+      ]
+    },
+    "brand_essence": {
+      "statement": "Considered domestic longevity.",
+      "epistemic_status": "inferred",
+      "evidence_and_scope": "Synthesized from EV-001 and EV-004 modernist/longevity framing",
+      "evidence_ids": [
+        "EV-001",
+        "EV-004"
+      ]
+    },
+    "positioning": {
+      "statement": "The quality-and-design alternative to disposable, trend-driven home textiles.",
+      "epistemic_status": "inferred",
+      "evidence_and_scope": "EV-001, EV-005; global owned-web scope",
+      "evidence_ids": [
+        "EV-001",
+        "EV-005"
+      ]
+    },
+    "brand_promise": {
+      "statement": "Pieces designed to be lived in and made to last.",
+      "epistemic_status": "observed",
+      "evidence_and_scope": "EV-001 direct quote; masterbrand scope",
+      "evidence_ids": [
+        "EV-001"
+      ]
+    },
+    "core_values": [
+      {
+        "name": "Quality",
+        "statement": "Uncompromising quality through close production-partner collaboration.",
+        "epistemic_status": "observed",
+        "evidence_and_scope": "EV-001 direct quote",
+        "evidence_ids": [
+          "EV-001"
+        ]
+      },
+      {
+        "name": "Longevity over trend",
+        "statement": "Designing for longevity and rejecting rapid trend cycles.",
+        "epistemic_status": "observed",
+        "evidence_and_scope": "EV-001 direct quote",
+        "evidence_ids": [
+          "EV-001"
+        ]
+      }
+    ],
+    "brand_message": {
+      "statement": "Quality, design, and longevity across the entire value chain.",
+      "epistemic_status": "observed",
+      "evidence_and_scope": "EV-001 direct quote",
+      "evidence_ids": [
+        "EV-001"
+      ]
+    },
+    "voice_principles": {
+      "statement": "Short, declarative, value-led sentences without superlative or trend language.",
+      "epistemic_status": "observed",
+      "evidence_and_scope": "EV-001, EV-002",
+      "evidence_ids": [
+        "EV-001",
+        "EV-002"
+      ]
+    },
+    "activation_principles": {
+      "statement": "B Corp certification and named production-partner sourcing as reasons to believe.",
+      "epistemic_status": "observed",
+      "evidence_and_scope": "EV-001",
+      "evidence_ids": [
+        "EV-001"
+      ]
+    }
+  },
+  "design_system": {
+    "brand_color_scheme": {
+      "title": "Brand color scheme",
+      "roles": [
+        "Wordmark ink / persistent text, active, and border color",
+        "Identity",
+        "Page canvas / persistent background field",
+        "Third-party carousel component accent (Swiper library default), not a brand-assigned color",
+        "Interaction / status",
+        "Season/collection-specific product color, not identity color",
+        "Product / campaign",
+        "Set/lighting-driven color, not identity or product color",
+        "Photography",
+        "Identity ink on canvas"
+      ],
+      "relationships": [
+        "#181818 text/mark sits on #F6F6F6 ground across web chrome, storefront signage, and woven labels"
+      ],
+      "invariants": [
+        "The dark-on-light identity pairing itself"
+      ],
+      "variables_and_exceptions": [
+        "Exact ground material changes (screen pixel vs. painted wood vs. woven cream ribbon)"
+      ],
+      "observed_references": [
+        {
+          "Observed value": "#181818",
+          "Color layer": "Identity",
+          "Source role": "Wordmark ink / persistent text, active, and border color",
+          "Channel / market / date": "owned web / Global / 2026-08-24",
+          "Evidence and scope": "EV-003; theme-color meta, safari-pinned-tab mask color, and CSS text/border color agree"
+        },
+        {
+          "Observed value": "#F6F6F6",
+          "Color layer": "Identity",
+          "Source role": "Page canvas / persistent background field",
+          "Channel / market / date": "owned web / Global / 2026-08-24",
+          "Evidence and scope": "EV-003; html background-color and gradient-to value agree"
+        },
+        {
+          "Observed value": "#007aff",
+          "Color layer": "Interaction / status",
+          "Source role": "Third-party carousel component accent (Swiper library default), not a brand-assigned color",
+          "Channel / market / date": "owned web / Global / 2026-08-24",
+          "Evidence and scope": "EV-003; appears only inside a vendored UI library variable, not brand CSS"
+        },
+        {
+          "Color layer": "Product / campaign",
+          "Observed value or explicit gap": "Sage green (duvet), cornflower blue (robe), rust-brown stripe (towel), slate-blue check (pillow sham)",
+          "Role": "Season/collection-specific product color, not identity color",
+          "Evidence and scope": "EV-102, EV-105, EV-107, EV-109"
+        },
+        {
+          "Color layer": "Photography",
+          "Observed value or explicit gap": "Warm taupe plaster, low-key warm shadow, natural birch",
+          "Role": "Set/lighting-driven color, not identity or product color",
+          "Evidence and scope": "EV-102, EV-103, EV-110"
+        }
+      ],
+      "evidence_ids": [
+        "EV-003",
+        "EV-102",
+        "EV-103",
+        "EV-104",
+        "EV-105",
+        "EV-106",
+        "EV-107",
+        "EV-108",
+        "EV-109",
+        "EV-110"
+      ],
+      "limits": [
+        "EV-003; theme-color meta, safari-pinned-tab mask color, and CSS text/border color agree",
+        "EV-003; html background-color and gradient-to value agree",
+        "EV-003; appears only inside a vendored UI library variable, not brand CSS",
+        "EV-102, EV-105, EV-107, EV-109",
+        "EV-102, EV-103, EV-110",
+        "EV-003, EV-104, EV-105, EV-106, EV-108"
+      ],
+      "source_notes": [
+        "Identity color field:",
+        "Interaction and status color references:",
+        "Product, campaign, and photographic color boundaries:"
+      ],
+      "source_tables": [
+        {
+          "columns": [
+            "Observed value",
+            "Color layer",
+            "Source role",
+            "Channel / market / date",
+            "Evidence and scope"
+          ],
+          "rows": [
+            {
+              "Observed value": "#181818",
+              "Color layer": "Identity",
+              "Source role": "Wordmark ink / persistent text, active, and border color",
+              "Channel / market / date": "owned web / Global / 2026-08-24",
+              "Evidence and scope": "EV-003; theme-color meta, safari-pinned-tab mask color, and CSS text/border color agree"
+            },
+            {
+              "Observed value": "#F6F6F6",
+              "Color layer": "Identity",
+              "Source role": "Page canvas / persistent background field",
+              "Channel / market / date": "owned web / Global / 2026-08-24",
+              "Evidence and scope": "EV-003; html background-color and gradient-to value agree"
+            }
+          ]
+        },
+        {
+          "columns": [
+            "Observed value",
+            "Color layer",
+            "Source role",
+            "Channel / market / date",
+            "Evidence and scope"
+          ],
+          "rows": [
+            {
+              "Observed value": "#007aff",
+              "Color layer": "Interaction / status",
+              "Source role": "Third-party carousel component accent (Swiper library default), not a brand-assigned color",
+              "Channel / market / date": "owned web / Global / 2026-08-24",
+              "Evidence and scope": "EV-003; appears only inside a vendored UI library variable, not brand CSS"
+            }
+          ]
+        },
+        {
+          "columns": [
+            "Color layer",
+            "Observed value or explicit gap",
+            "Role",
+            "Evidence and scope"
+          ],
+          "rows": [
+            {
+              "Color layer": "Product / campaign",
+              "Observed value or explicit gap": "Sage green (duvet), cornflower blue (robe), rust-brown stripe (towel), slate-blue check (pillow sham)",
+              "Role": "Season/collection-specific product color, not identity color",
+              "Evidence and scope": "EV-102, EV-105, EV-107, EV-109"
+            },
+            {
+              "Color layer": "Photography",
+              "Observed value or explicit gap": "Warm taupe plaster, low-key warm shadow, natural birch",
+              "Role": "Set/lighting-driven color, not identity or product color",
+              "Evidence and scope": "EV-102, EV-103, EV-110"
+            }
+          ]
+        },
+        {
+          "columns": [
+            "Role",
+            "Operating relationship",
+            "Invariant",
+            "Variable by channel / locale",
+            "Evidence and limits"
+          ],
+          "rows": [
+            {
+              "Role": "Identity ink on canvas",
+              "Operating relationship": "#181818 text/mark sits on #F6F6F6 ground across web chrome, storefront signage, and woven labels",
+              "Invariant": "The dark-on-light identity pairing itself",
+              "Variable by channel / locale": "Exact ground material changes (screen pixel vs. painted wood vs. woven cream ribbon)",
+              "Evidence and limits": "EV-003, EV-104, EV-105, EV-106, EV-108"
+            }
+          ]
+        }
+      ],
+      "color_tokens": [
+        {
+          "id": "observed-color-1",
+          "name": "Wordmark ink / persistent text, active, and border color",
+          "value": "#181818",
+          "color_layer": "Identity",
+          "role": "Wordmark ink / persistent text, active, and border color",
+          "channel_market_date": "owned web / Global / 2026-08-24",
+          "evidence_and_scope": "EV-003; theme-color meta, safari-pinned-tab mask color, and CSS text/border color agree",
+          "value_status": "observed"
+        },
+        {
+          "id": "observed-color-2",
+          "name": "Page canvas / persistent background field",
+          "value": "#F6F6F6",
+          "color_layer": "Identity",
+          "role": "Page canvas / persistent background field",
+          "channel_market_date": "owned web / Global / 2026-08-24",
+          "evidence_and_scope": "EV-003; html background-color and gradient-to value agree",
+          "value_status": "observed"
+        },
+        {
+          "id": "observed-color-3",
+          "name": "Third-party carousel component accent (Swiper library default), not a brand-assigned color",
+          "value": "#007aff",
+          "color_layer": "Interaction / status",
+          "role": "Third-party carousel component accent (Swiper library default), not a brand-assigned color",
+          "channel_market_date": "owned web / Global / 2026-08-24",
+          "evidence_and_scope": "EV-003; appears only inside a vendored UI library variable, not brand CSS",
+          "value_status": "observed"
+        }
+      ]
+    },
+    "typography_hierarchy": {
+      "title": "Typography hierarchy",
+      "roles": [
+        "Body",
+        "Label",
+        "Body / Label"
+      ],
+      "relationships": [
+        "Both roles share one family (Unica77) at two confirmed weights (400, 300)"
+      ],
+      "invariants": [
+        "Single family across confirmed roles"
+      ],
+      "variables_and_exceptions": [
+        "Exact size/line-height per role not measured"
+      ],
+      "observed_references": [],
+      "evidence_ids": [
+        "EV-003"
+      ],
+      "limits": [
+        "EV-003; family and weight confirmed via @font-face, exact rendered size not measured in rapid window",
+        "EV-003; rendered scale not captured in rapid window"
+      ],
+      "source_notes": [
+        "Observed reference values for family and weight are captured directly from the live site's `@font-face` declarations; rendered size, line-height, and letter-spacing were not measured within the rapid window (see gaps below).",
+        "Observed typography specimens:",
+        "Verified webfont artifacts:",
+        "Set `documentation_only: true`. The Storybook report must render a typography-specimen matrix with visibly distinct rows for Display, H1, H2, H3, Body, Label, Caption, and every materially different localized script, or show a visible `webfont-gap`. Display, H1, H2, H3, and Caption rows were not directly observed within the rapid window and must render as `documentation-preview` scale values, not source claims."
+      ],
+      "source_tables": [
+        {
+          "columns": [
+            "Information role",
+            "Family",
+            "Size",
+            "Weight",
+            "Line height",
+            "Letter spacing",
+            "Script",
+            "Specimen",
+            "Channel / market / date",
+            "Evidence and scope"
+          ],
+          "rows": [
+            {
+              "Information role": "Body",
+              "Family": "Unica77",
+              "Size": "not captured",
+              "Weight": "400 (Regular)",
+              "Line height": "not captured",
+              "Letter spacing": "not captured",
+              "Script": "Latin",
+              "Specimen": "\"Fresh cotton bedding\"",
+              "Channel / market / date": "owned web / Global / 2026-08-24",
+              "Evidence and scope": "EV-003; family and weight confirmed via @font-face, exact rendered size not measured in rapid window"
+            },
+            {
+              "Information role": "Label",
+              "Family": "Unica77",
+              "Size": "not captured",
+              "Weight": "300 (Light)",
+              "Line height": "not captured",
+              "Letter spacing": "not captured",
+              "Script": "Latin",
+              "Specimen": "\"Discover sleepwear in refreshed colours\"",
+              "Channel / market / date": "owned web / Global / 2026-08-24",
+              "Evidence and scope": "EV-003; family and weight confirmed via @font-face, exact rendered size not measured in rapid window"
+            }
+          ]
+        },
+        {
+          "columns": [
+            "Family",
+            "Weight / style",
+            "Format",
+            "First-party source URL",
+            "Channel / locale / date",
+            "Fallback and license boundary"
+          ],
+          "rows": [
+            {
+              "Family": "Unica77",
+              "Weight / style": "400 / normal",
+              "Format": "woff2",
+              "First-party source URL": "https://teklafabrics.com/_next/static/media/regular.d5185f3f.woff2",
+              "Channel / locale / date": "owned web / Global / 2026-08-24",
+              "Fallback and license boundary": "Fallback stack: ui-sans-serif, system-ui, sans-serif; self-hosted, licensing terms not published, documentation reference only"
+            },
+            {
+              "Family": "Unica77",
+              "Weight / style": "300 / normal",
+              "Format": "woff2",
+              "First-party source URL": "https://teklafabrics.com/_next/static/media/light.3c3fe360.woff2",
+              "Channel / locale / date": "owned web / Global / 2026-08-24",
+              "Fallback and license boundary": "Same fallback stack; documentation reference only"
+            },
+            {
+              "Family": "Unica77",
+              "Weight / style": "300 / italic",
+              "Format": "woff2",
+              "First-party source URL": "https://teklafabrics.com/_next/static/media/light-italic.18f108ec.woff2",
+              "Channel / locale / date": "owned web / Global / 2026-08-24",
+              "Fallback and license boundary": "Same fallback stack; documentation reference only"
+            }
+          ]
+        },
+        {
+          "columns": [
+            "Information role",
+            "Hierarchy relationship",
+            "Invariant",
+            "Variable by channel / locale",
+            "Evidence and limits"
+          ],
+          "rows": [
+            {
+              "Information role": "Body / Label",
+              "Hierarchy relationship": "Both roles share one family (Unica77) at two confirmed weights (400, 300)",
+              "Invariant": "Single family across confirmed roles",
+              "Variable by channel / locale": "Exact size/line-height per role not measured",
+              "Evidence and limits": "EV-003; rendered scale not captured in rapid window"
+            }
+          ]
+        }
+      ],
+      "documentation_only": true,
+      "documentation_webfonts": [
+        {
+          "id": "unica77",
+          "family": "Unica77",
+          "weight": "400 / normal",
+          "style": "normal",
+          "format": "woff2",
+          "source_url": "https://teklafabrics.com/_next/static/media/regular.d5185f3f.woff2",
+          "source_type": "font-file",
+          "channel_locale_date": "owned web / Global / 2026-08-24",
+          "license_note": "Fallback stack: ui-sans-serif, system-ui, sans-serif; self-hosted, licensing terms not published, documentation reference only",
+          "status": "verified"
+        },
+        {
+          "id": "unica77",
+          "family": "Unica77",
+          "weight": "300 / normal",
+          "style": "normal",
+          "format": "woff2",
+          "source_url": "https://teklafabrics.com/_next/static/media/light.3c3fe360.woff2",
+          "source_type": "font-file",
+          "channel_locale_date": "owned web / Global / 2026-08-24",
+          "license_note": "Same fallback stack; documentation reference only",
+          "status": "verified"
+        },
+        {
+          "id": "unica77",
+          "family": "Unica77",
+          "weight": "300 / italic",
+          "style": "normal",
+          "format": "woff2",
+          "source_url": "https://teklafabrics.com/_next/static/media/light-italic.18f108ec.woff2",
+          "source_type": "font-file",
+          "channel_locale_date": "owned web / Global / 2026-08-24",
+          "license_note": "Same fallback stack; documentation reference only",
+          "status": "verified"
+        }
+      ],
+      "specimens": [
+        {
+          "id": "typography-1",
+          "role": "Body",
+          "family": "Unica77",
+          "font_source_id": "unica77",
+          "size": "not captured",
+          "weight": "400 (Regular)",
+          "line_height": "not captured",
+          "letter_spacing": "not captured",
+          "script": "Latin",
+          "specimen": "\"Fresh cotton bedding\"",
+          "evidence_and_scope": "EV-003; family and weight confirmed via @font-face, exact rendered size not measured in rapid window",
+          "value_status": "observed"
+        },
+        {
+          "id": "typography-2",
+          "role": "Label",
+          "family": "Unica77",
+          "font_source_id": "unica77",
+          "size": "not captured",
+          "weight": "300 (Light)",
+          "line_height": "not captured",
+          "letter_spacing": "not captured",
+          "script": "Latin",
+          "specimen": "\"Discover sleepwear in refreshed colours\"",
+          "evidence_and_scope": "EV-003; family and weight confirmed via @font-face, exact rendered size not measured in rapid window",
+          "value_status": "observed"
+        }
+      ]
+    },
+    "spacing_strategy": {
+      "title": "Spacing strategy",
+      "roles": [
+        "Product-to-background breathing room"
+      ],
+      "relationships": [
+        "The key visual and storefront window both leave roughly half or more of the frame as plain surrounding field around one product"
+      ],
+      "invariants": [
+        "Generous negative space around the primary subject"
+      ],
+      "variables_and_exceptions": [
+        "Not measured in pixel/rem terms within the rapid window"
+      ],
+      "observed_references": [],
+      "evidence_ids": [
+        "EV-102",
+        "EV-104"
+      ],
+      "limits": [
+        "EV-102, EV-104"
+      ],
+      "source_notes": [],
+      "source_tables": [
+        {
+          "columns": [
+            "Spacing role",
+            "Relationship",
+            "Invariant",
+            "Responsive / density variation",
+            "Evidence and limits"
+          ],
+          "rows": [
+            {
+              "Spacing role": "Product-to-background breathing room",
+              "Relationship": "The key visual and storefront window both leave roughly half or more of the frame as plain surrounding field around one product",
+              "Invariant": "Generous negative space around the primary subject",
+              "Responsive / density variation": "Not measured in pixel/rem terms within the rapid window",
+              "Evidence and limits": "EV-102, EV-104"
+            }
+          ]
+        }
+      ]
+    },
+    "layout_strategy": {
+      "title": "Layout strategy",
+      "roles": [
+        "Primary product presentation"
+      ],
+      "relationships": [
+        "Centered, symmetrical framing with the product as the sole subject"
+      ],
+      "invariants": [
+        "Centering and single-subject focus"
+      ],
+      "variables_and_exceptions": [
+        "Editorial/press imagery allows off-center, layered composition instead"
+      ],
+      "observed_references": [],
+      "evidence_ids": [
+        "EV-102",
+        "EV-110"
+      ],
+      "limits": [
+        "EV-102, EV-110"
+      ],
+      "source_notes": [],
+      "source_tables": [
+        {
+          "columns": [
+            "Layout role",
+            "Alignment and sequence",
+            "Invariant",
+            "Format variation",
+            "Evidence and limits"
+          ],
+          "rows": [
+            {
+              "Layout role": "Primary product presentation",
+              "Alignment and sequence": "Centered, symmetrical framing with the product as the sole subject",
+              "Invariant": "Centering and single-subject focus",
+              "Format variation": "Editorial/press imagery allows off-center, layered composition instead",
+              "Evidence and limits": "EV-102, EV-110"
+            }
+          ]
+        }
+      ]
+    },
+    "implementation_boundary": "Source observations and portable relationships only; not target-ready tokens, JSON variables, breakpoints, or component code."
+  },
+  "grammar_rules": [
+    {
+      "grammar_id": "GK-01",
+      "name": "Center one product in a plain field",
+      "input_condition": "A single hero product (a made bed, a folded product family) needs to read as the brand's default visual statement.",
+      "transformation": "Place the product frontally at the center of the frame against one plain, lightly textured surface, leaving roughly half or more of the frame as surrounding negative space.",
+      "intended_effect": "The product reads as calm and considered rather than styled or crowded, before any lifestyle context is added.",
+      "evidence_ids": [
+        "EV-102",
+        "EV-104"
+      ],
+      "confidence": "high",
+      "alternative_explanation": "Minimal styling could simply reflect e-commerce photography convenience rather than a deliberate key-visual rule.",
+      "exception_and_scope": "Applies to the current global masterbrand's owned-web hero imagery and flagship storefront window only.",
+      "protected_source_expression": "Do not copy TEKLA's own photographs; reproduce only the compositional relationship.",
+      "acceptance_test": "The primary subject is centered with visibly dominant plain surrounding field.",
+      "rejection_test": "Multiple competing subjects or heavy prop styling fill the frame edge to edge."
+    },
+    {
+      "grammar_id": "GK-02",
+      "name": "Separate label proof from mood photography",
+      "input_condition": "A product's material/construction truth and a lifestyle emotional register both need representation.",
+      "transformation": "Give each image exactly one job — either a clinical macro/flat-lay crop showing label, weave, and construction, or a soft, low-key lifestyle portrait — and never merge the two in one frame.",
+      "intended_effect": "Construction claims stay verifiable and uncluttered while mood imagery stays emotionally legible, without either undercutting the other.",
+      "evidence_ids": [
+        "EV-103",
+        "EV-105",
+        "EV-106"
+      ],
+      "confidence": "medium",
+      "alternative_explanation": "The separation could be an artifact of using different photographers or shoot days rather than an intentional rule.",
+      "exception_and_scope": "Applies to captured owned-web product and lifestyle imagery only; campaign video was not assessed.",
+      "protected_source_expression": "Do not copy TEKLA's specific label typesetting or exact crop; reuse only the separation-of-jobs principle.",
+      "acceptance_test": "Every sampled image can be labeled as either a detail/proof shot or a mood shot, not both.",
+      "rejection_test": "One image simultaneously shows legible label/construction detail and an active lifestyle scene."
+    },
+    {
+      "grammar_id": "GK-03",
+      "name": "Repeat the same woven label across every category",
+      "input_condition": "A new product category (bedding, bath, slippers) needs a brand-recognition anchor without adding a new graphic system per category.",
+      "transformation": "Apply one rectangular woven label, black all-caps TEKLA wordmark on a light ribbon, with product line and size/spec beneath it, at a consistent seam or vamp location.",
+      "intended_effect": "Any product photograph, regardless of category, can be identified as TEKLA from the same small physical detail.",
+      "evidence_ids": [
+        "EV-105",
+        "EV-106",
+        "EV-108"
+      ],
+      "confidence": "high",
+      "alternative_explanation": "Consistent labeling may simply follow generic textile-industry labeling convention rather than a deliberate brand rule.",
+      "exception_and_scope": "Confirmed for bedding, bath, and slipper categories only; not confirmed for candles or other home-decor items.",
+      "protected_source_expression": "Do not copy the exact label artwork; reuse only the label-hierarchy and placement principle.",
+      "acceptance_test": "The same label hierarchy (wordmark, then line, then spec) appears in a newly sampled product image.",
+      "rejection_test": "A sampled product category shows no label or a differently ordered hierarchy."
+    },
+    {
+      "grammar_id": "GK-04",
+      "name": "Carry one dark identity value across every surface",
+      "input_condition": "The same brand needs to be recognizable across a digital screen, a physical storefront, and a sewn product label, none of which share a rendering technology.",
+      "transformation": "Apply the same near-black value (#181818) as text/mark ink on every surface — CSS text and borders on the site, painted or printed signage in the store, and printed wordmark ink on woven labels — against a consistently light ground.",
+      "intended_effect": "Identity recognition survives a change of material and medium without requiring a shared font file or asset format.",
+      "evidence_ids": [
+        "EV-003",
+        "EV-104",
+        "EV-105"
+      ],
+      "confidence": "medium",
+      "alternative_explanation": "Near-black ink on a light ground is also just a common, generic print/UI default, not necessarily an intentional brand rule.",
+      "exception_and_scope": "Confirmed for owned web, the Copenhagen flagship, and sampled woven labels; not confirmed for packaging or other unsampled physical media.",
+      "protected_source_expression": "Do not copy TEKLA's exact CSS or label artwork; reuse only the cross-medium dark-ink-on-light-ground principle.",
+      "acceptance_test": "A newly sampled TEKLA surface uses a near-black mark on a light ground.",
+      "rejection_test": "A newly sampled TEKLA surface uses a materially different identity color pairing."
+    }
+  ],
+  "evidence_index": [
+    {
+      "evidence_id": "EV-001",
+      "title": "About Tekla",
+      "source_tier": "primary",
+      "content_type": "brand page",
+      "evidence_layer": "strategy",
+      "visual_category": "",
+      "source_url": "https://teklafabrics.com/about-tekla",
+      "local_path": "",
+      "market": "Global",
+      "era_or_date": "2026",
+      "captured_at": "2026-08-24",
+      "credit": "Tekla",
+      "rights_note": "",
+      "subject_role": "",
+      "human_casting": "",
+      "setting": "",
+      "composition": "",
+      "camera_and_perspective": "",
+      "lighting": "",
+      "palette": "",
+      "material_and_surface": "",
+      "postproduction": "",
+      "motion_or_sequence": "",
+      "product_representation_job": "",
+      "product_image_job": "",
+      "product_native_signals": "",
+      "intrinsic_product_signals": "",
+      "analysis_notes": "",
+      "key_visual_surface": "",
+      "report_section": "",
+      "report_order": ""
+    },
+    {
+      "evidence_id": "EV-002",
+      "title": "Tekla Fabrics homepage",
+      "source_tier": "primary",
+      "content_type": "brand page",
+      "evidence_layer": "verbal",
+      "visual_category": "",
+      "source_url": "https://teklafabrics.com/",
+      "local_path": "",
+      "market": "Global",
+      "era_or_date": "2026",
+      "captured_at": "2026-08-24",
+      "credit": "Tekla",
+      "rights_note": "",
+      "subject_role": "",
+      "human_casting": "",
+      "setting": "",
+      "composition": "",
+      "camera_and_perspective": "",
+      "lighting": "",
+      "palette": "",
+      "material_and_surface": "",
+      "postproduction": "",
+      "motion_or_sequence": "",
+      "product_representation_job": "",
+      "product_image_job": "",
+      "product_native_signals": "",
+      "intrinsic_product_signals": "",
+      "analysis_notes": "",
+      "key_visual_surface": "",
+      "report_section": "",
+      "report_order": ""
+    },
+    {
+      "evidence_id": "EV-003",
+      "title": "Tekla site stylesheet and meta tags",
+      "source_tier": "primary",
+      "content_type": "technical asset",
+      "evidence_layer": "identity and channel tokens",
+      "visual_category": "",
+      "source_url": "https://teklafabrics.com/_next/static/css/9509757e414b93aa.css",
+      "local_path": "",
+      "market": "Global",
+      "era_or_date": "2026",
+      "captured_at": "2026-08-24",
+      "credit": "Tekla",
+      "rights_note": "",
+      "subject_role": "",
+      "human_casting": "",
+      "setting": "",
+      "composition": "",
+      "camera_and_perspective": "",
+      "lighting": "",
+      "palette": "",
+      "material_and_surface": "",
+      "postproduction": "",
+      "motion_or_sequence": "",
+      "product_representation_job": "",
+      "product_image_job": "",
+      "product_native_signals": "",
+      "intrinsic_product_signals": "",
+      "analysis_notes": "",
+      "key_visual_surface": "",
+      "report_section": "",
+      "report_order": ""
+    },
+    {
+      "evidence_id": "EV-004",
+      "title": "Inspired by home, Tekla opens a serene first store in Copenhagen's historic Egmont Building",
+      "source_tier": "secondary",
+      "content_type": "article",
+      "evidence_layer": "brand mood",
+      "visual_category": "",
+      "source_url": "https://www.wallpaper.com/fashion-beauty/tekla-copenhagen-store",
+      "local_path": "",
+      "market": "Global",
+      "era_or_date": "2024",
+      "captured_at": "2026-08-24",
+      "credit": "Wallpaper*",
+      "rights_note": "",
+      "subject_role": "",
+      "human_casting": "",
+      "setting": "",
+      "composition": "",
+      "camera_and_perspective": "",
+      "lighting": "",
+      "palette": "",
+      "material_and_surface": "",
+      "postproduction": "",
+      "motion_or_sequence": "",
+      "product_representation_job": "",
+      "product_image_job": "",
+      "product_native_signals": "",
+      "intrinsic_product_signals": "",
+      "analysis_notes": "",
+      "key_visual_surface": "",
+      "report_section": "",
+      "report_order": ""
+    },
+    {
+      "evidence_id": "EV-005",
+      "title": "Tekla Fabrics Founder Charlie Hedin: Crafting Dreams in Textiles",
+      "source_tier": "secondary",
+      "content_type": "article",
+      "evidence_layer": "strategy",
+      "visual_category": "",
+      "source_url": "https://www.scandinaviastandard.com/getting-wrapped-up-in-tekla-fabrics/",
+      "local_path": "",
+      "market": "Global",
+      "era_or_date": "2020",
+      "captured_at": "2026-08-24",
+      "credit": "Scandinavia Standard",
+      "rights_note": "",
+      "subject_role": "",
+      "human_casting": "",
+      "setting": "",
+      "composition": "",
+      "camera_and_perspective": "",
+      "lighting": "",
+      "palette": "",
+      "material_and_surface": "",
+      "postproduction": "",
+      "motion_or_sequence": "",
+      "product_representation_job": "",
+      "product_image_job": "",
+      "product_native_signals": "",
+      "intrinsic_product_signals": "",
+      "analysis_notes": "",
+      "key_visual_surface": "",
+      "report_section": "",
+      "report_order": ""
+    },
+    {
+      "evidence_id": "EV-006",
+      "title": "Functionality Form and Freedom Brought To You By Charlie Hedin Of Tekla",
+      "source_tier": "secondary",
+      "content_type": "article",
+      "evidence_layer": "strategy",
+      "visual_category": "",
+      "source_url": "https://www.forbes.com/sites/felicitycarter/2020/01/15/functionality-form--freedom-brought-to-you-by-charlie-hedin-of-tekla/",
+      "local_path": "",
+      "market": "Global",
+      "era_or_date": "2020",
+      "captured_at": "2026-08-24",
+      "credit": "Forbes",
+      "rights_note": "",
+      "subject_role": "",
+      "human_casting": "",
+      "setting": "",
+      "composition": "",
+      "camera_and_perspective": "",
+      "lighting": "",
+      "palette": "",
+      "material_and_surface": "",
+      "postproduction": "",
+      "motion_or_sequence": "",
+      "product_representation_job": "",
+      "product_image_job": "",
+      "product_native_signals": "",
+      "intrinsic_product_signals": "",
+      "analysis_notes": "",
+      "key_visual_surface": "",
+      "report_section": "",
+      "report_order": ""
+    },
+    {
+      "evidence_id": "EV-101",
+      "title": "Tekla favicon / app icon mark",
+      "source_tier": "primary",
+      "content_type": "image_candidate",
+      "evidence_layer": "identity",
+      "visual_category": "logo",
+      "source_url": "https://teklafabrics.com/favicon.svg",
+      "local_path": "assets/tekla-mark.svg",
+      "market": "Global",
+      "era_or_date": "2026",
+      "captured_at": "2026-08-24",
+      "credit": "Tekla",
+      "rights_note": "Copyright Tekla; research reference only",
+      "subject_role": "app icon mark",
+      "human_casting": "none",
+      "setting": "flat asset",
+      "composition": "centered monogram",
+      "camera_and_perspective": "front",
+      "lighting": "flat",
+      "palette": "dark mark on light field",
+      "material_and_surface": "flat vector",
+      "postproduction": "none",
+      "motion_or_sequence": "static",
+      "product_representation_job": "identity recognition",
+      "product_image_job": "",
+      "product_native_signals": "compact monogram silhouette",
+      "intrinsic_product_signals": "",
+      "analysis_notes": "Official favicon/app-icon asset; confirms a dark mark on a light field but is not a confirmed full wordmark lockup",
+      "key_visual_surface": "yes",
+      "report_section": "identity-channel-tokens",
+      "report_order": "1"
+    },
+    {
+      "evidence_id": "EV-102",
+      "title": "Tekla key visual bed",
+      "source_tier": "primary",
+      "content_type": "image_candidate",
+      "evidence_layer": "key visual",
+      "visual_category": "key visual",
+      "source_url": "https://tekla.b-cdn.net/59iE0AZRGoA6HRO2W1POpe/9a69e0ec1aac0abcfe30d2be18e5e686/TEKLA_02_03.jpg",
+      "local_path": "evidence/images/EV-102-key-visual.jpg",
+      "market": "Global",
+      "era_or_date": "2026",
+      "captured_at": "2026-08-24",
+      "credit": "Tekla",
+      "rights_note": "Copyright Tekla; research reference only",
+      "subject_role": "made bed with duvet",
+      "human_casting": "none",
+      "setting": "plain plaster bedroom wall",
+      "composition": "symmetrical centered product against negative space",
+      "camera_and_perspective": "front-on eye level",
+      "lighting": "soft diffuse daylight",
+      "palette": "sage green and warm taupe with dark wood accent",
+      "material_and_surface": "cotton percale duvet with visible button closures",
+      "postproduction": "minimal restrained grade",
+      "motion_or_sequence": "static",
+      "product_representation_job": "hero silhouette proof",
+      "product_image_job": "",
+      "product_native_signals": "channel-quilted duvet form with woven care label",
+      "intrinsic_product_signals": "",
+      "analysis_notes": "Homepage og:image; a single bed reads as the brand's default hero motif with generous surrounding wall space",
+      "key_visual_surface": "yes",
+      "report_section": "key-visual",
+      "report_order": "2"
+    },
+    {
+      "evidence_id": "EV-103",
+      "title": "Tekla lifestyle sleepwear portrait",
+      "source_tier": "primary",
+      "content_type": "image_candidate",
+      "evidence_layer": "photography",
+      "visual_category": "brand image",
+      "source_url": "https://tekla.b-cdn.net/4BORZEpa1OYbNhqR6nZY61/8def3a2e9ebe1fbeab618ed00bd26c44/BB_TEKLA___2_.jpg",
+      "local_path": "evidence/images/EV-103-photography-a.jpg",
+      "market": "Global",
+      "era_or_date": "2026",
+      "captured_at": "2026-08-24",
+      "credit": "Tekla",
+      "rights_note": "Copyright Tekla; research reference only",
+      "subject_role": "seated model in sleepwear",
+      "human_casting": "single adult woman seated cross-legged looking away from camera",
+      "setting": "domestic interior corner",
+      "composition": "off-center subject with deep shadow field",
+      "camera_and_perspective": "three-quarter angle at seated eye level",
+      "lighting": "low-key directional window light with soft falloff",
+      "palette": "pale mint sleepwear against warm neutral shadow",
+      "material_and_surface": "piped cotton sleepwear with visible topstitching",
+      "postproduction": "filmic grain and muted contrast",
+      "motion_or_sequence": "static",
+      "product_representation_job": "mood and material context",
+      "product_image_job": "",
+      "product_native_signals": "piped collar and cuff construction visible",
+      "intrinsic_product_signals": "",
+      "analysis_notes": "Editorial-register portrait; gaze averted, quiet and undemonstrative rather than posed toward camera",
+      "key_visual_surface": "no",
+      "report_section": "photography-film",
+      "report_order": "3"
+    },
+    {
+      "evidence_id": "EV-104",
+      "title": "Tekla Copenhagen flagship storefront",
+      "source_tier": "primary",
+      "content_type": "image_candidate",
+      "evidence_layer": "brand mood",
+      "visual_category": "store",
+      "source_url": "https://tekla.b-cdn.net/6Hw4qO6ZY1BbooJHkzyXrK/5335d8a07ce18ca4fdb6f445d77d28e4/Low-Umit-Storeopening4.jpg",
+      "local_path": "evidence/images/EV-104-brand-mood-store.jpg",
+      "market": "Global",
+      "era_or_date": "2026",
+      "captured_at": "2026-08-24",
+      "credit": "Tekla",
+      "rights_note": "Copyright Tekla; research reference only",
+      "subject_role": "storefront and interior",
+      "human_casting": "none",
+      "setting": "Egmont Building street-level window",
+      "composition": "frontal symmetrical shopfront framing centered wordmark",
+      "camera_and_perspective": "front-on street level",
+      "lighting": "mixed daylight through glass and warm interior ceiling fixtures",
+      "palette": "black frame with white interior and warm wood counter",
+      "material_and_surface": "poured concrete floor and natural wood counter visible through glass",
+      "postproduction": "none",
+      "motion_or_sequence": "static",
+      "product_representation_job": "brand-world establishing context",
+      "product_image_job": "",
+      "product_native_signals": "black wordmark set on a light maple counter, all-caps geometric letterforms",
+      "intrinsic_product_signals": "",
+      "analysis_notes": "Direct evidence of the wordmark treatment in situ: bold tight-tracked black TEKLA letters on a light wood surface",
+      "key_visual_surface": "yes",
+      "report_section": "brand-mood",
+      "report_order": "4"
+    },
+    {
+      "evidence_id": "EV-105",
+      "title": "Tekla striped towel stack with woven label",
+      "source_tier": "primary",
+      "content_type": "image_candidate",
+      "evidence_layer": "product representation",
+      "visual_category": "product photography",
+      "source_url": "https://tekla.b-cdn.net/50pBo8p4zsqNMqiIfwIPzm/ee72bb3cfded9436b170c3801ff772f5/2073-05-0065.jpg",
+      "local_path": "evidence/images/EV-105-photography-b.jpg",
+      "market": "Global",
+      "era_or_date": "2026",
+      "captured_at": "2026-08-24",
+      "credit": "Tekla",
+      "rights_note": "Copyright Tekla; research reference only",
+      "subject_role": "folded towel family",
+      "human_casting": "none",
+      "setting": "flat studio surface against plain wall",
+      "composition": "graduated size stack with centered label tags",
+      "camera_and_perspective": "top-down flat lay",
+      "lighting": "soft even studio light",
+      "palette": "rust-brown stripe on white terry",
+      "material_and_surface": "cotton terry with woven jacquard stripe",
+      "postproduction": "clean minimal retouch",
+      "motion_or_sequence": "static",
+      "product_representation_job": "family-scale and material proof",
+      "product_image_job": "",
+      "product_native_signals": "woven TEKLA wordmark label sewn into every towel size, bold black on cream ribbon",
+      "intrinsic_product_signals": "",
+      "analysis_notes": "Shows the same woven wordmark label repeated across the full size range of one product family",
+      "key_visual_surface": "no",
+      "report_section": "product-representation",
+      "report_order": "5"
+    },
+    {
+      "evidence_id": "EV-106",
+      "title": "Tekla down duvet detail",
+      "source_tier": "primary",
+      "content_type": "image_candidate",
+      "evidence_layer": "product representation",
+      "visual_category": "product photography",
+      "source_url": "https://tekla.b-cdn.net/41Xt8wzk7hDxlwxi5GWWaX/5adf389ad44e5b4d536d12f64673883e/Tekla_Core_Down_Duvet_Light_DN-SS_2.jpg",
+      "local_path": "evidence/images/EV-106-product-duvet.jpg",
+      "market": "Global",
+      "era_or_date": "2026",
+      "captured_at": "2026-08-24",
+      "credit": "Tekla",
+      "rights_note": "Copyright Tekla; research reference only",
+      "subject_role": "duvet corner detail",
+      "human_casting": "none",
+      "setting": "plain studio surface",
+      "composition": "tight macro crop on folded corner and label",
+      "camera_and_perspective": "top-down macro",
+      "lighting": "soft directional light with visible fabric sheen",
+      "palette": "off-white on off-white",
+      "material_and_surface": "cotton percale channel-quilted shell",
+      "postproduction": "minimal retouch preserving fabric creasing",
+      "motion_or_sequence": "static",
+      "product_representation_job": "material and construction proof",
+      "product_image_job": "",
+      "product_native_signals": "woven care label reading TEKLA / Light / 240x220cm stitched into the seam",
+      "intrinsic_product_signals": "",
+      "analysis_notes": "Detail crop isolates channel-quilting construction and the sewn-in size/weight label rather than the full product silhouette",
+      "key_visual_surface": "no",
+      "report_section": "product-representation",
+      "report_order": "6"
+    },
+    {
+      "evidence_id": "EV-107",
+      "title": "Tekla percale pillow sham Douglas Checks",
+      "source_tier": "primary",
+      "content_type": "image_candidate",
+      "evidence_layer": "product native",
+      "visual_category": "industrial design",
+      "source_url": "https://tekla.b-cdn.net/4Iqi9pIAngyq7fFLPheJjD/ffcc9afc1d18b6e1a0ac257a87ef4567/Tekla_Percale_Pillow_sham_Douglas_Checks_2.jpg",
+      "local_path": "evidence/images/EV-107-product-pillow.jpg",
+      "market": "Global",
+      "era_or_date": "2026",
+      "captured_at": "2026-08-24",
+      "credit": "Tekla",
+      "rights_note": "Copyright Tekla; research reference only",
+      "subject_role": "pillow sham fabric corner",
+      "human_casting": "none",
+      "setting": "plain studio surface",
+      "composition": "diagonal close crop filling the frame",
+      "camera_and_perspective": "steep three-quarter macro",
+      "lighting": "soft even light",
+      "palette": "slate blue and white check",
+      "material_and_surface": "woven cotton check with fine grid overprint",
+      "postproduction": "clean minimal retouch",
+      "motion_or_sequence": "static",
+      "product_representation_job": "pattern and weave proof",
+      "product_image_job": "",
+      "product_native_signals": "printed woven TEKLA label sewn at the open edge, check pattern scale and register visible",
+      "intrinsic_product_signals": "",
+      "analysis_notes": "Isolates the woven check pattern and label placement as the product's own visual signature independent of any styled scene",
+      "key_visual_surface": "no",
+      "report_section": "product-native-visual-language",
+      "report_order": "7"
+    },
+    {
+      "evidence_id": "EV-108",
+      "title": "Tekla home slipper detail",
+      "source_tier": "primary",
+      "content_type": "image_candidate",
+      "evidence_layer": "product native",
+      "visual_category": "industrial design",
+      "source_url": "https://tekla.b-cdn.net/6KoOT8wPNJSrwH3fwOJAeh/1c474a50ed65b8196bda96499d536e53/Tekla_Home_slipper_Accessories_Brown_4.jpg",
+      "local_path": "evidence/images/EV-108-product-native-detail.jpg",
+      "market": "Global",
+      "era_or_date": "2026",
+      "captured_at": "2026-08-24",
+      "credit": "Tekla",
+      "rights_note": "Copyright Tekla; research reference only",
+      "subject_role": "shearling slipper pair",
+      "human_casting": "none",
+      "setting": "plain studio surface",
+      "composition": "overhead diagonal framing filling the frame",
+      "camera_and_perspective": "top-down macro",
+      "lighting": "soft even light",
+      "palette": "dark chocolate brown",
+      "material_and_surface": "pile shearling upper with woven label at the vamp",
+      "postproduction": "clean minimal retouch",
+      "motion_or_sequence": "static",
+      "product_representation_job": "construction and material proof",
+      "product_image_job": "",
+      "product_native_signals": "woven TEKLA wordmark label set into the slipper vamp, pile texture and slip-on silhouette",
+      "intrinsic_product_signals": "",
+      "analysis_notes": "Shows the slipper's own mule silhouette and label placement rather than a worn or styled context",
+      "key_visual_surface": "no",
+      "report_section": "product-native-visual-language",
+      "report_order": "8"
+    },
+    {
+      "evidence_id": "EV-109",
+      "title": "Tekla terry bathrobe in use",
+      "source_tier": "primary",
+      "content_type": "image_candidate",
+      "evidence_layer": "product representation",
+      "visual_category": "product photography",
+      "source_url": "https://tekla.b-cdn.net/5tM5DDUGurSb8znQ6Sp8dq/464397e84f0bb33782d8bef79cdf7de2/Tekla_Terry_Classic_Bathrobe_Marseille_Female_CB-MA_3.jpg",
+      "local_path": "evidence/images/EV-109-product-in-use.jpg",
+      "market": "Global",
+      "era_or_date": "2026",
+      "captured_at": "2026-08-24",
+      "credit": "Tekla",
+      "rights_note": "Copyright Tekla; research reference only",
+      "subject_role": "model wearing robe",
+      "human_casting": "single adult woman facing camera directly",
+      "setting": "plain seamless studio backdrop",
+      "composition": "centered frontal half-length portrait",
+      "camera_and_perspective": "front-on eye level",
+      "lighting": "flat even studio light",
+      "palette": "cornflower blue and white stripe",
+      "material_and_surface": "cotton terry with ribbed belt and patch pocket",
+      "postproduction": "clean commercial retouch",
+      "motion_or_sequence": "static",
+      "product_representation_job": "product-in-use and fit proof",
+      "product_image_job": "",
+      "product_native_signals": "ribbed belt and patch pocket construction visible on the body",
+      "intrinsic_product_signals": "",
+      "analysis_notes": "Direct catalogue-style proof of fit",
+      "key_visual_surface": "product-representation",
+      "report_section": "drape",
+      "report_order": "and construction worn on a person rather than flat or hung"
+    },
+    {
+      "evidence_id": "EV-110",
+      "title": "Tekla styled still life on Aalto trolley",
+      "source_tier": "primary",
+      "content_type": "image_candidate",
+      "evidence_layer": "photography",
+      "visual_category": "brand image",
+      "source_url": "https://tekla.b-cdn.net/6bEY28ztAKB5RCL74kS27w/62e1e9a781555ff220af69712ee5634a/2073-01-0003.jpg",
+      "local_path": "evidence/images/EV-110-photography-c.jpg",
+      "market": "Global",
+      "era_or_date": "2026",
+      "captured_at": "2026-08-24",
+      "credit": "Tekla",
+      "rights_note": "Copyright Tekla; research reference only",
+      "subject_role": "styled trolley still life",
+      "human_casting": "none",
+      "setting": "plain studio surface with vintage furniture prop",
+      "composition": "off-center still life with layered depth",
+      "camera_and_perspective": "three-quarter elevated angle",
+      "lighting": "soft even daylight",
+      "palette": "periwinkle blue stripe and natural birch",
+      "material_and_surface": "birch bent-plywood trolley with terry towels and natural bristle brush",
+      "postproduction": "minimal retouch",
+      "motion_or_sequence": "static",
+      "product_representation_job": "lifestyle and heritage-object context",
+      "product_image_job": "",
+      "product_native_signals": "folded towels with visible woven label stacked beside a natural bristle bath brush",
+      "intrinsic_product_signals": "",
+      "analysis_notes": "Pairs the product with an unbranded modernist furniture object rather than placing it in a full room set",
+      "key_visual_surface": "no",
+      "report_section": "photography-film",
+      "report_order": "10"
+    }
+  ],
+  "downstream_contract": {
+    "read_with": "storybook_registered_report",
+    "transfer_plan_requires": [
+      "new user target direction",
+      "decision_index",
+      "verbal_branding",
+      "design_system",
+      "grammar_rules",
+      "protected_surface_families",
+      "unresolved_gaps"
+    ],
+    "second_brand_model_must_add": [
+      "approved tuning operation and source lineage",
+      "target-category evidence and constraints",
+      "original positioning, verbal, identity, key visual, mood, photography, product representation, and product-native rules",
+      "implementation-ready semantic tokens and decision status"
+    ],
+    "product_photo_brief_requires_from_second_brand": [
+      "commercial brand image mood",
+      "product representation roles",
+      "camera, light, set, material, color, post-production, and sequence rules",
+      "product-native form or interface states that must remain truthful"
+    ],
+    "landing_page_brief_requires_from_second_brand": [
+      "positioning and message order",
+      "key-visual surface translation",
+      "brand color and typography roles",
+      "spacing and layout strategy",
+      "product or interface behavior, states, evidence, and CTA rules"
+    ]
+  }
+}

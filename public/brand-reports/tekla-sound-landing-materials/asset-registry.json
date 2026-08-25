@@ -1,0 +1,334 @@
+{
+  "schema_version": "1.1.0",
+  "artifact_type": "landing_product_asset_registry",
+  "stage": "landing_materials",
+  "assets": [
+    {
+      "asset_id": "ST3-WALL-01",
+      "product_name": "TEKLA SOUND Wall",
+      "role": "product_hero",
+      "file_path": "/brand-reports/tekla-sound-landing-materials/assets/tekla-sound-wall-hero-78d77616fe211b1e5d2d360f74cc965131b256f6aaafde7c90d156f119b93259.png",
+      "prompt_path": "prompts/wall-hero.md",
+      "generation_provenance": "Stage 2 approved OpenAI built-in image generation render, copied into Stage 3 on 2026-08-24 without pixel alteration",
+      "communication_job": "브랜드 메시지와 대표 Wall의 형태를 즉시 이해시키고 카피 여백을 제공한다.",
+      "reference_lineage": [
+        "ST2-PRODUCT-HERO-01",
+        "Stage 2 Wall approved anchor",
+        "Stage 2 Still Wall material reference"
+      ],
+      "invariants": [
+        "tall portrait textile face",
+        "earth-red woven surface near #C2513A",
+        "slim pale-oak frame",
+        "single lower recessed black slot",
+        "no visible driver or cable",
+        "continuous left copy-safe field"
+      ],
+      "allowed_variation": [
+        "no Stage 3 variation; inherited approved anchor"
+      ],
+      "invariant_check": "pass",
+      "status": "registered"
+    },
+    {
+      "asset_id": "ST3-NICHE-01",
+      "product_name": "TEKLA SOUND Niche",
+      "role": "product_lineup_context",
+      "file_path": "/brand-reports/tekla-sound-landing-materials/assets/tekla-sound-niche-pair-9c4cdd163c55b9cb95ab2d4d5d541d5dbd8e43c8d031282a227b9998084e21f8.png",
+      "prompt_path": "prompts/niche-pair.md",
+      "generation_provenance": "OpenAI built-in image generation; generated 2026-08-24 in serial Series mode from the approved Stage 2 Wall anchor",
+      "communication_job": "Niche의 좁은 비례와 페어 배치가 작은 건축 면에 맞는다는 점을 보여준다.",
+      "reference_lineage": [
+        "ST2-PRODUCT-HERO-01",
+        "Stage 2 product lineup: TEKLA SOUND Niche"
+      ],
+      "invariants": [
+        "exactly two identical narrow portrait units",
+        "earth-red woven face near #C2513A",
+        "slim pale-oak frame",
+        "one lower recessed black slot per unit",
+        "no visible driver or cable",
+        "balanced paired placement"
+      ],
+      "allowed_variation": [
+        "narrow bay location",
+        "pair spacing",
+        "shelf and doorway context"
+      ],
+      "invariant_check": "pass",
+      "status": "registered"
+    },
+    {
+      "asset_id": "ST3-BEAM-01",
+      "product_name": "TEKLA SOUND Beam",
+      "role": "product_lineup_context",
+      "file_path": "/brand-reports/tekla-sound-landing-materials/assets/tekla-sound-beam-context-f6f13a42c0b9655b4782ff681f7a0e9dcbb22c9c65a4167884b7a817457b34d9.png",
+      "prompt_path": "prompts/beam-context.md",
+      "generation_provenance": "OpenAI built-in image generation; generated 2026-08-24 in serial Series mode from the approved Stage 2 Wall anchor",
+      "communication_job": "Beam의 낮고 긴 형태가 공간의 수평선과 정렬되는 모습을 보여준다.",
+      "reference_lineage": [
+        "ST2-PRODUCT-HERO-01",
+        "Stage 2 product lineup: TEKLA SOUND Beam"
+      ],
+      "invariants": [
+        "one low wide horizontal unit",
+        "continuous earth-red woven face near #C2513A",
+        "slim pale-oak frame",
+        "one recessed black linear lower slot",
+        "no visible driver or cable",
+        "alignment to architectural horizontal datum"
+      ],
+      "allowed_variation": [
+        "horizontal length",
+        "bench or shelf context",
+        "left copy-safe field"
+      ],
+      "invariant_check": "pass",
+      "status": "registered"
+    },
+    {
+      "asset_id": "ST3-WALL-WIDE-01",
+      "product_name": "TEKLA SOUND Wall Wide",
+      "role": "product_variant_hero",
+      "file_path": "/brand-reports/tekla-sound-landing-materials/assets/tekla-sound-wall-wide-environment-v3-a7f3117253513da291071b4625dc0187957740f5ac80bd09cad3589baa04960a.png",
+      "prompt_path": "prompts/wall-wide-v2.md",
+      "generation_provenance": "OpenAI built-in image edit; generated 2026-08-24 from the approved Stage 3 Wall hero with product width expanded approximately threefold, then reframed as a wider environmental interior view",
+      "communication_job": "Wall의 높이와 재료 언어를 유지하면서 가로 면적이 확장된 건축형 작품을 넓은 공간 안에서 보여준다.",
+      "reference_lineage": [
+        "ST3-WALL-01",
+        "User-requested threefold horizontal expansion",
+        "User-requested wider environmental framing"
+      ],
+      "invariants": [
+        "wide Wall proportion retained",
+        "environmental framing with product occupying approximately one third of image width",
+        "earth-red woven face near #C2513A",
+        "slim pale-oak frame",
+        "single recessed black lower slot",
+        "no visible driver or cable",
+        "left copy-safe field"
+      ],
+      "allowed_variation": [
+        "wider room context and environmental framing"
+      ],
+      "invariant_check": "pass",
+      "status": "registered"
+    },
+    {
+      "asset_id": "ST3-WALL-COLOR-TERRACOTTA",
+      "product_name": "TEKLA SOUND Wall Wide",
+      "role": "colorway_cutout_primary",
+      "file_path": "/brand-reports/tekla-sound-landing-materials/assets/wall-wide-terracotta-d4a6fdba58b82fcb2b3f541e20b126dfadaa00b39282a131bf4479683a1faf8e.png",
+      "prompt_path": "prompts/wall-wide-colorways.md",
+      "generation_provenance": "OpenAI built-in image edit; generated 2026-08-24 as transparent primary terracotta colorway cutout",
+      "communication_job": "컬러 선택기의 기본·복귀 상태에서 TEKLA SOUND 주력 Terracotta 마감을 보여준다.",
+      "reference_lineage": [
+        "ST3-WALL-WIDE-01",
+        "Terracotta #C2513A"
+      ],
+      "invariants": [
+        "locked Wall Wide geometry",
+        "transparent background",
+        "pale-oak frame",
+        "single black lower slot",
+        "terracotta woven face"
+      ],
+      "allowed_variation": [
+        "textile color only"
+      ],
+      "invariant_check": "pass",
+      "status": "registered"
+    },
+    {
+      "asset_id": "ST3-WALL-COLOR-IVORY",
+      "product_name": "TEKLA SOUND Wall Wide",
+      "role": "colorway_cutout",
+      "file_path": "/brand-reports/tekla-sound-landing-materials/assets/wall-wide-ivory-83ca320bab32ad86c666d767501b5ba97126f576dc3642d93933398659a2ca04.png",
+      "prompt_path": "prompts/wall-wide-colorways.md",
+      "generation_provenance": "OpenAI built-in image edit; generated 2026-08-24 as transparent ivory colorway cutout",
+      "communication_job": "컬러칩 Ivory hover 상태에서 Wall Wide의 마감 변화를 보여준다.",
+      "reference_lineage": [
+        "ST3-WALL-COLOR-TERRACOTTA",
+        "Ivory #E7E0D2"
+      ],
+      "invariants": [
+        "locked Wall Wide geometry",
+        "transparent background",
+        "pale-oak frame",
+        "single black lower slot",
+        "ivory woven face"
+      ],
+      "allowed_variation": [
+        "textile color only"
+      ],
+      "invariant_check": "pass",
+      "status": "registered"
+    },
+    {
+      "asset_id": "ST3-WALL-COLOR-BEIGE",
+      "product_name": "TEKLA SOUND Wall Wide",
+      "role": "colorway_cutout",
+      "file_path": "/brand-reports/tekla-sound-landing-materials/assets/wall-wide-beige-3b6c0a37a2b293673537dd989de44ac989d6005c06d5b9ef8aa172268f80d68a.png",
+      "prompt_path": "prompts/wall-wide-colorways.md",
+      "generation_provenance": "OpenAI built-in image edit; generated 2026-08-24 as transparent beige colorway cutout",
+      "communication_job": "컬러칩 Beige hover 상태에서 Wall Wide의 마감 변화를 보여준다.",
+      "reference_lineage": [
+        "ST3-WALL-COLOR-IVORY",
+        "Beige #B9A58F"
+      ],
+      "invariants": [
+        "locked Wall Wide geometry",
+        "transparent background",
+        "pale-oak frame",
+        "single black lower slot",
+        "beige woven face"
+      ],
+      "allowed_variation": [
+        "textile color only"
+      ],
+      "invariant_check": "pass",
+      "status": "registered"
+    },
+    {
+      "asset_id": "ST3-WALL-COLOR-COBALT",
+      "product_name": "TEKLA SOUND Wall Wide",
+      "role": "colorway_cutout",
+      "file_path": "/brand-reports/tekla-sound-landing-materials/assets/wall-wide-cobalt-blue-0b4846f7885e6a1f6318902ba8185536393ab6289e6505dde95842c51c03cd97.png",
+      "prompt_path": "prompts/wall-wide-colorways.md",
+      "generation_provenance": "OpenAI built-in image edit; generated 2026-08-24 as transparent cobalt-blue colorway cutout",
+      "communication_job": "컬러칩 Cobalt Blue hover 상태에서 Wall Wide의 마감 변화를 보여준다.",
+      "reference_lineage": [
+        "ST3-WALL-COLOR-IVORY",
+        "Cobalt Blue #2457C5"
+      ],
+      "invariants": [
+        "locked Wall Wide geometry",
+        "transparent background",
+        "pale-oak frame",
+        "single black lower slot",
+        "cobalt-blue woven face"
+      ],
+      "allowed_variation": [
+        "textile color only"
+      ],
+      "invariant_check": "pass",
+      "status": "registered"
+    },
+    {
+      "asset_id": "ST3-WALL-COLOR-GREEN",
+      "product_name": "TEKLA SOUND Wall Wide",
+      "role": "colorway_cutout",
+      "file_path": "/brand-reports/tekla-sound-landing-materials/assets/wall-wide-deep-green-6f024ed45c137ad83978b83c6fb8e780124a83a1a52a4f666b53fbecdd27fda3.png",
+      "prompt_path": "prompts/wall-wide-colorways.md",
+      "generation_provenance": "OpenAI built-in image edit; generated 2026-08-24 as transparent deep-green colorway cutout",
+      "communication_job": "컬러칩 Deep Green hover 상태에서 Wall Wide의 마감 변화를 보여준다.",
+      "reference_lineage": [
+        "ST3-WALL-COLOR-IVORY",
+        "Deep Green #173F35"
+      ],
+      "invariants": [
+        "locked Wall Wide geometry",
+        "transparent background",
+        "pale-oak frame",
+        "single black lower slot",
+        "deep-green woven face"
+      ],
+      "allowed_variation": [
+        "textile color only"
+      ],
+      "invariant_check": "pass",
+      "status": "registered"
+    },
+    {
+      "asset_id": "ST3-REF-WALL-01",
+      "product_name": "TEKLA SOUND Wall",
+      "role": "user_product_concept",
+      "file_path": "/brand-reports/tekla-sound-landing-materials/assets/still-wall-01-hero-de8b73d6636c39c04a3107a4e48003f87903e3557c3e0b96fac6e35a456cba19.jpg",
+      "prompt_path": "prompts/reference-product-concepts.md",
+      "generation_provenance": "User-supplied repository-local product concept image; copied into Stage 3 without pixel alteration",
+      "communication_job": "Wall의 세로 비례와 넓은 카피 여백을 보조 증거로 보여준다.",
+      "reference_lineage": [
+        "/brand-reports/tekla-sound-landing-materials/assets/still-wall-01-hero-de8b73d6636c39c04a3107a4e48003f87903e3557c3e0b96fac6e35a456cba19.jpg"
+      ],
+      "invariants": [
+        "portrait Wall",
+        "earth-red textile",
+        "pale-oak frame",
+        "architectural placement"
+      ],
+      "allowed_variation": [
+        "reference use only"
+      ],
+      "invariant_check": "pass",
+      "status": "registered"
+    },
+    {
+      "asset_id": "ST3-REF-WALL-DETAIL",
+      "product_name": "TEKLA SOUND Wall",
+      "role": "material_detail",
+      "file_path": "/brand-reports/tekla-sound-landing-materials/assets/still-wall-material-detail-f6725a63587fb0ba94c61833940f878ff3fdbbc6b6e2382503b13dbcaf0cc7d5.jpg",
+      "prompt_path": "prompts/reference-product-concepts.md",
+      "generation_provenance": "User-supplied repository-local product concept image; copied into Stage 3 without pixel alteration",
+      "communication_job": "직물 결, 오크 프레임, 하단 슬롯의 재료 디테일을 보여준다.",
+      "reference_lineage": [
+        "/brand-reports/tekla-sound-landing-materials/assets/still-wall-material-detail-f6725a63587fb0ba94c61833940f878ff3fdbbc6b6e2382503b13dbcaf0cc7d5.jpg"
+      ],
+      "invariants": [
+        "woven textile detail",
+        "oak joint",
+        "single recessed slot"
+      ],
+      "allowed_variation": [
+        "reference use only"
+      ],
+      "invariant_check": "pass",
+      "status": "registered"
+    },
+    {
+      "asset_id": "ST3-REF-NICHE-01",
+      "product_name": "TEKLA SOUND Niche",
+      "role": "user_product_concept",
+      "file_path": "/brand-reports/tekla-sound-landing-materials/assets/still-niche-02-dbe601cc5a0eba0caeae48c959c15b8e87e2db79c6f7992e3cc4dae582c561e2.jpg",
+      "prompt_path": "prompts/reference-product-concepts.md",
+      "generation_provenance": "User-supplied repository-local product concept image; copied into Stage 3 without pixel alteration",
+      "communication_job": "Niche 페어가 선반 주변의 좁은 건축 면에 통합되는 방식을 보여준다.",
+      "reference_lineage": [
+        "/brand-reports/tekla-sound-landing-materials/assets/still-niche-02-dbe601cc5a0eba0caeae48c959c15b8e87e2db79c6f7992e3cc4dae582c561e2.jpg"
+      ],
+      "invariants": [
+        "paired narrow Niche",
+        "earth-red textile",
+        "oak frame",
+        "architectural integration"
+      ],
+      "allowed_variation": [
+        "reference use only"
+      ],
+      "invariant_check": "pass",
+      "status": "registered"
+    },
+    {
+      "asset_id": "ST3-REF-BEAM-01",
+      "product_name": "TEKLA SOUND Beam",
+      "role": "user_product_concept",
+      "file_path": "/brand-reports/tekla-sound-landing-materials/assets/still-beam-03-7f5f9799323ece967fc776d071c315a42825809c41bfa2e01eb9835ec64ce3f3.jpg",
+      "prompt_path": "prompts/reference-product-concepts.md",
+      "generation_provenance": "User-supplied repository-local product concept image; copied into Stage 3 without pixel alteration",
+      "communication_job": "Beam이 벤치와 창의 수평선에 내장되는 방식을 보여준다.",
+      "reference_lineage": [
+        "/brand-reports/tekla-sound-landing-materials/assets/still-beam-03-7f5f9799323ece967fc776d071c315a42825809c41bfa2e01eb9835ec64ce3f3.jpg"
+      ],
+      "invariants": [
+        "horizontal Beam",
+        "earth-red textile",
+        "oak frame",
+        "bench integration"
+      ],
+      "allowed_variation": [
+        "reference use only"
+      ],
+      "invariant_check": "pass",
+      "status": "registered"
+    }
+  ]
+}

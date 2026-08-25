@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_type": "stage_review",
+  "stage": "extended_brand_anatomy",
+  "status": "accepted",
+  "pipeline_state_path": "",
+  "review_targets": [
+    "TEKLA SOUND positioning and source distance",
+    "Still Series Wall/Niche/Beam lineup and product form",
+    "key visual and registered product-hero/brand-mood anchors",
+    "landing-page design-token relationships"
+  ],
+  "adjustment_prompts": [
+    "브랜드 방향, Wall·Niche·Beam 제품군, 제품 히어로와 여성 모델 룩북 앵커 중 조정할 부분이 있나요? 없으면 Stage 2를 승인할 수 있습니다."
+  ],
+  "user_feedback": [
+    "direction-lock approved: TEKLA SOUND, audience, exploratory three-product lineup, source distance, atmosphere-first visual priority, and landing goal order",
+    "Stage 2 approved by user",
+    "타이포그래피를 Pretendard 단일 패밀리와 300·400·500·600 웨이트 범위로 변경 승인"
+  ],
+  "updated_at": "2026-08-24T19:35:00+09:00"
+}

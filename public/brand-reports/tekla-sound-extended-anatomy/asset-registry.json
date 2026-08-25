@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.1.0",
+  "artifact_type": "brand_asset_registry",
+  "stage": "extended_brand_anatomy",
+  "assets": [
+    {
+      "asset_id": "ST2-PRODUCT-HERO-01",
+      "role": "representative_product_hero",
+      "communication_job": "브랜드 세계관과 Wall의 대표 형태를 즉시 이해시키고 왼쪽에 런칭 카피 공간을 제공",
+      "file_path": "/brand-reports/tekla-sound-extended-anatomy/assets/tekla-sound-wall-hero-78d77616fe211b1e5d2d360f74cc965131b256f6aaafde7c90d156f119b93259.png",
+      "prompt_path": "prompts/product-hero.md",
+      "subject": "TEKLA SOUND Wall mounted as one earth-red textile artwork in a quiet Scandinavian interior",
+      "aspect_ratio": "3:2 landscape",
+      "generation_provenance": "OpenAI built-in image generation; generated 2026-08-24 from approved Stage 2 direction and local concept references",
+      "reference_lineage": [
+        "/brand-reports/tekla-sound-extended-anatomy/assets/still-wall-01-hero-de8b73d6636c39c04a3107a4e48003f87903e3557c3e0b96fac6e35a456cba19.jpg",
+        "/brand-reports/tekla-sound-extended-anatomy/assets/still-wall-material-detail-f6725a63587fb0ba94c61833940f878ff3fdbbc6b6e2382503b13dbcaf0cc7d5.jpg",
+        "/brand-reports/tekla-sound-extended-anatomy/assets/still-niche-02-dbe601cc5a0eba0caeae48c959c15b8e87e2db79c6f7992e3cc4dae582c561e2.jpg"
+      ],
+      "invariants": [
+        "tall portrait textile face",
+        "earth-red woven surface near #c2513a",
+        "slim pale-oak frame",
+        "single lower recessed black slot",
+        "no visible driver, cable, label, or logo",
+        "continuous left copy-safe field"
+      ],
+      "allowed_variation": "earth-tone textile shade, oak grain, and copy-safe side may vary while product proportions remain fixed",
+      "invariant_check": "pass",
+      "status": "registered"
+    },
+    {
+      "asset_id": "ST2-BRAND-MOOD-01",
+      "role": "brand_mood",
+      "communication_job": "자연과 연결된 집에서 사운드 속에 쉬는 경험을 조용한 생활 관찰형 룩북으로 전달",
+      "file_path": "/brand-reports/tekla-sound-extended-anatomy/assets/tekla-sound-listening-lookbook-51f83128bf8a7bc1a24a178e24df8c9858616c46964d32225f98881f1ad1e520.png",
+      "prompt_path": "prompts/brand-mood.md",
+      "subject": "late-30s Nordic woman resting in a lounge chair with TEKLA SOUND Wall integrated as artwork",
+      "aspect_ratio": "3:2 landscape",
+      "generation_provenance": "OpenAI built-in image generation; generated 2026-08-24 from approved Stage 2 direction and product reference",
+      "reference_lineage": [
+        "/brand-reports/tekla-sound-extended-anatomy/assets/tekla-sound-wall-hero-78d77616fe211b1e5d2d360f74cc965131b256f6aaafde7c90d156f119b93259.png",
+        "/brand-reports/tekla-sound-extended-anatomy/assets/still-wall-material-detail-f6725a63587fb0ba94c61833940f878ff3fdbbc6b6e2382503b13dbcaf0cc7d5.jpg"
+      ],
+      "invariants": [
+        "one late-30s Nordic woman",
+        "relaxed asymmetric pose and averted gaze",
+        "natural daylight and skin texture",
+        "Wall geometry and #c2513a textile preserved",
+        "no device interaction or visible cable",
+        "atmosphere before product detail"
+      ],
+      "allowed_variation": "future lookbook frames may vary sofa versus chair, pose, and window view while product identity and capture behavior remain fixed",
+      "invariant_check": "pass",
+      "status": "registered"
+    }
+  ]
+}

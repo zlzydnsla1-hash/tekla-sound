@@ -1,0 +1,33 @@
+source_analysis:
+  reference_brand: "TEKLA"
+  exact_scope: "TEKLA (teklafabrics.com) Copenhagen home-textile masterbrand, current era"
+  package_path: "analysis/tekla-source"
+  anatomy_path: "source-brand-anatomy.md"
+  grammar_path: "grammar-kernel.md"
+  manifest_path: "source-manifest.csv"
+  visual_corpus_path: "visual-corpus.csv"
+  contact_sheet_path: "contact-sheets/overview.jpg"
+  validation_status: "pass"
+  version: "1.0.0"
+  delivered_at: "2026-08-24T05:29:00Z"
+  source_json_schema_version: "1.2.0"
+approved_grammar_ids:
+  - GK-01
+  - GK-02
+  - GK-03
+  - GK-04
+protected_surface_families:
+  - TEKLA About-page mission copy ("built around uniting form and function", "an antidote to the bedding available at the time")
+  - TEKLA woven product label artwork and typesetting
+  - TEKLA storefront and product photography assets
+unresolved_source_gaps:
+  - standalone wordmark lockup file not isolated within the rapid window (only in-situ storefront and label instances observed)
+  - rendered typography scale (px/line-height) for Display, H1, H2, H3, and Caption roles not measured
+  - spacing/grid metrics in pixel or rem units not measured
+  - motion/video, packaging, onboarding, care/repair, and error/recovery imagery not captured
+target_direction: null
+next_required_action: "Await user Stage 1 review decision (accepted or revision_requested)."
+package_integrity:
+  anatomy_sha256: "1c3b93cea3eccaa97a24896e5a35a0fdbed81e1a26faee22f80135916d6a9fd1"
+  grammar_sha256: "2d664a6d6fdb8e9c166cf54fe155215d9dd5491be875dc8db1d2b69e3d6f6e78"
+  source_json_sha256: "76dfd08ca5ebfebb4fb6344e49dd3ef60ae5cd1b9b3ff3916937460e37f38ee7"
